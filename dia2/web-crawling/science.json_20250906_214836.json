@@ -1,0 +1,1732 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "section": "Science",
+    "last_updated": "2025-09-06T09:26:12-04:00",
+    "num_results": 27,
+    "results": [
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Sign Up for the Science Times Newsletter",
+            "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+            "url": "null",
+            "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2018-04-07T13:23:25-04:00",
+            "created_date": "2016-02-05T18:18:53-05:00",
+            "published_date": "2016-02-05T18:18:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "admin",
+            "subsection": "",
+            "title": "",
+            "abstract": "",
+            "url": "",
+            "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2015-07-20T13:45:03-04:00",
+            "created_date": "2015-04-16T14:13:18-04:00",
+            "published_date": "2015-04-16T14:13:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": ""
+        },
+        {
+            "section": "weather",
+            "subsection": "",
+            "title": "Lightning Strikes California With Unusual Frequency This Summer",
+            "abstract": "Weather patterns channeling moisture into the state have led to an abundance of lightning strikes that have ignited hundreds of wildfires.",
+            "url": "https://www.nytimes.com/2025/09/06/weather/california-lightning-weather.html",
+            "uri": "nyt://article/684b46b1-ac4e-5995-b4f3-956de2b25fbe",
+            "byline": "By Amy Graff",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T12:10:26-04:00",
+            "created_date": "2025-09-06T12:10:26-04:00",
+            "published_date": "2025-09-06T12:10:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Weather",
+                "Summer (Season)",
+                "Wildfires",
+                "Lightning",
+                "Southern California Wildfires (Jan 2025)",
+                "Fires and Firefighters",
+                "Oceans and Seas",
+                "Forests and Forestry",
+                "Disasters and Emergencies"
+            ],
+            "org_facet": [
+                "Cal Fire"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05vid-lightning-ca/05vid-lightning-ca-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1105,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lighting strikes to the West over the Oxnard plain as seen from Thousand Oaks, CA.",
+                    "copyright": "Al Seib/Los Angeles Times, via Getty Image"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05vid-lightning-ca/05vid-lightning-ca-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lighting strikes to the West over the Oxnard plain as seen from Thousand Oaks, CA.",
+                    "copyright": "Al Seib/Los Angeles Times, via Getty Image"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05vid-lightning-ca/05vid-lightning-ca-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lighting strikes to the West over the Oxnard plain as seen from Thousand Oaks, CA.",
+                    "copyright": "Al Seib/Los Angeles Times, via Getty Image"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Energy Secretary Attacks Offshore Wind and Dismisses Climate Change",
+            "abstract": "Chris Wright, who travels to Europe next week to promote American gas, called climate change “not incredibly important.”",
+            "url": "https://www.nytimes.com/2025/09/05/climate/wright-energy-offshore-wind-turbines.html",
+            "uri": "nyt://article/66ed9edc-12b3-5975-b9b4-d9da8427cebf",
+            "byline": "By Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T21:01:50-04:00",
+            "created_date": "2025-09-05T21:01:50-04:00",
+            "published_date": "2025-09-05T21:01:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Wind Power",
+                "Alternative and Renewable Energy",
+                "Natural Gas",
+                "Oil (Petroleum) and Gasoline",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Orsted AS"
+            ],
+            "per_facet": [
+                "Wright, Chris (1965- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/27/multimedia/05cli-wright/05cli-wright-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chris Wright, the energy secretary, also said, “We don’t want to be in the race for the most expensive electricity in the world.”",
+                    "copyright": "Anna Moneymaker/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/27/multimedia/05cli-wright/05cli-wright-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chris Wright, the energy secretary, also said, “We don’t want to be in the race for the most expensive electricity in the world.”",
+                    "copyright": "Anna Moneymaker/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/27/multimedia/05cli-wright/05cli-wright-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chris Wright, the energy secretary, also said, “We don’t want to be in the race for the most expensive electricity in the world.”",
+                    "copyright": "Anna Moneymaker/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Federal Report on Drinking Is Withdrawn",
+            "abstract": "The upcoming U.S. Dietary Guidelines will instead be influenced by a competing study, favored by industry, which found that moderate alcohol consumption was healthy.",
+            "url": "https://www.nytimes.com/2025/09/05/health/alcohol-drinking-hhs-report.html",
+            "uri": "nyt://article/90f66f28-052d-5f40-8c5f-413cc87f3334",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T15:18:46-04:00",
+            "created_date": "2025-09-05T16:51:05-04:00",
+            "published_date": "2025-09-05T16:51:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Alcoholic Beverages",
+                "Cancer",
+                "Diet and Nutrition",
+                "Deaths (Fatalities)",
+                "Research",
+                "United States Politics and Government",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Health and Human Services Department",
+                "National Academies of Sciences, Engineering and Medicine"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04alcohol-kflz/04alcohol-kflz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The report that has been sidelined is one of several that have upended a long-dominant narrative about alcohol that suggested that moderate drinking was not harmful and might even have health benefits.",
+                    "copyright": "Colin Clark for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04alcohol-kflz/04alcohol-kflz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The report that has been sidelined is one of several that have upended a long-dominant narrative about alcohol that suggested that moderate drinking was not harmful and might even have health benefits.",
+                    "copyright": "Colin Clark for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04alcohol-kflz/04alcohol-kflz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The report that has been sidelined is one of several that have upended a long-dominant narrative about alcohol that suggested that moderate drinking was not harmful and might even have health benefits.",
+                    "copyright": "Colin Clark for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Debate Flares Over an Unproven Link Between Tylenol and Autism",
+            "abstract": "Studies over the last decade of acetaminophen use in pregnancy — including a recent scientific review — have yielded mixed results but have not found a causal connection.",
+            "url": "https://www.nytimes.com/2025/09/05/health/autism-acetaminophen-tylenol.html",
+            "uri": "nyt://article/ef4f6fb7-3662-5646-9dc0-727fece0b1fb",
+            "byline": "By Azeen Ghorayshi",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T13:00:08-04:00",
+            "created_date": "2025-09-05T14:58:30-04:00",
+            "published_date": "2025-09-05T14:58:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Autism",
+                "Tylenol (Drug)",
+                "Pregnancy and Childbirth",
+                "Research",
+                "Medicine and Health"
+            ],
+            "org_facet": [
+                "Harvard School of Public Health",
+                "Mount Sinai School of Medicine",
+                "Health and Human Services Department"
+            ],
+            "per_facet": [
+                "Kennedy, Robert F Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/science/05tylenol-autism/05tylenol-autism-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1312,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new scientific review has been swept up in a larger, politically fraught debate over the causes of autism. ",
+                    "copyright": "Gary Cameron/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/science/05tylenol-autism/05tylenol-autism-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new scientific review has been swept up in a larger, politically fraught debate over the causes of autism. ",
+                    "copyright": "Gary Cameron/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/science/05tylenol-autism/05tylenol-autism-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new scientific review has been swept up in a larger, politically fraught debate over the causes of autism. ",
+                    "copyright": "Gary Cameron/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "A. James Hudspeth, Who Unlocked Mysteries Behind Hearing, Dies at 79",
+            "abstract": "He was pivotal in discovering how sound waves are converted into signals that the brain can perceive as a whisper, a symphony or a thunderclap.",
+            "url": "https://www.nytimes.com/2025/09/05/science/dr-a-james-hudspeth-dead.html",
+            "uri": "nyt://article/056307c1-7bd9-59d0-a402-1fa8e19a00d5",
+            "byline": "By Jeré Longman",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T13:28:01-04:00",
+            "created_date": "2025-09-05T13:28:01-04:00",
+            "published_date": "2025-09-05T13:28:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Ears and Hearing",
+                "Brain",
+                "Research",
+                "Cochlea (Ear Part)"
+            ],
+            "org_facet": [
+                "Rockefeller University"
+            ],
+            "per_facet": [
+                "Hudspeth, A James (1945-2025)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02Hudspeth--02-bhwg/02Hudspeth--02-bhwg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. A. James Hudspeth in 2019 in a lab containing zebrafish tanks. His work involved exploring how such nonmammalian animals can regain hearing.",
+                    "copyright": "Mario Morgado, via the Rockefeller University"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02Hudspeth--02-bhwg/02Hudspeth--02-bhwg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. A. James Hudspeth in 2019 in a lab containing zebrafish tanks. His work involved exploring how such nonmammalian animals can regain hearing.",
+                    "copyright": "Mario Morgado, via the Rockefeller University"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02Hudspeth--02-bhwg/02Hudspeth--02-bhwg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. A. James Hudspeth in 2019 in a lab containing zebrafish tanks. His work involved exploring how such nonmammalian animals can regain hearing.",
+                    "copyright": "Mario Morgado, via the Rockefeller University"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Two Valuable Satellites Are in ‘Perfect Health.’ They May Be Scrapped.",
+            "abstract": "The Trump administration wants to switch off and possibly destroy the climate-monitoring technology.",
+            "url": "https://www.nytimes.com/2025/09/05/climate/trump-climate-satellites.html",
+            "uri": "nyt://article/fbb490bd-c85a-55da-8d91-7f7eb9aa83a4",
+            "byline": "By Sachi Kitajima Mulkey",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T10:15:15-04:00",
+            "created_date": "2025-09-05T05:02:24-04:00",
+            "published_date": "2025-09-05T05:02:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Satellites",
+                "Sensors",
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United States Politics and Government",
+                "Federal Budget (US)",
+                "Carbon Dioxide",
+                "Science and Technology"
+            ],
+            "org_facet": [
+                "European Space Agency",
+                "National Aeronautics and Space Administration"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/00CLI-SATELLITES-06/00CLI-SATELLITES-06-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the satellite technology at risk of being defunded is attached to the International Space Station.",
+                    "copyright": "NASA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/00CLI-SATELLITES-06/00CLI-SATELLITES-06-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the satellite technology at risk of being defunded is attached to the International Space Station.",
+                    "copyright": "NASA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/00CLI-SATELLITES-06/00CLI-SATELLITES-06-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the satellite technology at risk of being defunded is attached to the International Space Station.",
+                    "copyright": "NASA"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Ebola Outbreak Is Declared in Province of Congo",
+            "abstract": "Health officials have recorded 28 suspected cases and 15 fatalities so far in the latest outbreak of the deadly virus, which has claimed thousands of lives in previous outbreaks in the Central African country.",
+            "url": "https://www.nytimes.com/2025/09/04/world/africa/congo-ebola-outbreak.html",
+            "uri": "nyt://article/79d9fe36-8d94-5345-b640-bcf68caa1df8",
+            "byline": "By Pranav Baskar",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T15:38:14-04:00",
+            "created_date": "2025-09-04T15:38:14-04:00",
+            "published_date": "2025-09-04T15:38:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Ebola Virus",
+                "Deaths (Fatalities)",
+                "Disease Rates",
+                "Medicine and Health",
+                "Refugees and Displaced Persons"
+            ],
+            "org_facet": [
+                "World Health Organization",
+                "United Nations"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Congo, Democratic Republic of (Congo-Kinshasa)",
+                "Africa"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04int-congo-ebola-wzvb/04int-congo-ebola-wzvb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Receiving a vaccination against Ebola in 2019 in the Democratic Republic of Congo. A team, joined by World Health Organization personnel, has been deployed to monitor the latest outbreak.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04int-congo-ebola-wzvb/04int-congo-ebola-wzvb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Receiving a vaccination against Ebola in 2019 in the Democratic Republic of Congo. A team, joined by World Health Organization personnel, has been deployed to monitor the latest outbreak.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04int-congo-ebola-wzvb/04int-congo-ebola-wzvb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Receiving a vaccination against Ebola in 2019 in the Democratic Republic of Congo. A team, joined by World Health Organization personnel, has been deployed to monitor the latest outbreak.",
+                    "copyright": "Finbarr O'Reilly for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Humans Are Altering the Seas. Here’s What the Future Ocean Might Look Like.",
+            "abstract": "Some marine ecosystems could soon be unrecognizable, according to new research. We mapped the possibilities.",
+            "url": "https://www.nytimes.com/interactive/2025/09/04/climate/ocean-water-temperatures-sea-levels.html",
+            "uri": "nyt://interactive/ad949682-f320-5196-b6a1-f045210128be",
+            "byline": "By Delger Erdenesanaa and Mira Rojanasakul",
+            "item_type": "Interactive",
+            "updated_date": "2025-09-06T17:24:36-04:00",
+            "created_date": "2025-09-04T14:01:01-04:00",
+            "published_date": "2025-09-04T14:01:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Oceans and Seas",
+                "Research",
+                "Coastal Areas",
+                "Conservation of Resources",
+                "Fish and Other Marine Life",
+                "Fishing, Commercial",
+                "Weaving",
+                "Global Warming",
+                "Gullah Geechee People",
+                "Floods",
+                "Fishing, Sport",
+                "Biodiversity",
+                "Environment",
+                "Wetlands",
+                "Hurricanes and Tropical Storms",
+                "Handicrafts",
+                "Marine Biology",
+                "Islands"
+            ],
+            "org_facet": [
+                "Science (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Atlantic Ocean",
+                "North Carolina",
+                "Pacific Ocean"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-04-21-ocean-impacts-index/2025-04-21-ocean-impacts-index-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-04-21-ocean-impacts-index/2025-04-21-ocean-impacts-index-threeByTwoSmallAt2X-v3.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-04-21-ocean-impacts-index/2025-04-21-ocean-impacts-index-thumbLarge-v3.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Orsted Sues Trump Administration in Fight to Restart Its Blocked Wind Farm",
+            "abstract": "The Danish company behind Revolution Wind, a $6 billion project off Rhode Island, said the federal government had unlawfully halted work on the wind farm.",
+            "url": "https://www.nytimes.com/2025/09/04/climate/orsted-trump-wind-farm-lawsuit.html",
+            "uri": "nyt://article/602fb886-4d54-58f0-8020-94438920eed0",
+            "byline": "By Brad Plumer and Karen Zraick",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T21:17:45-04:00",
+            "created_date": "2025-09-04T12:08:13-04:00",
+            "published_date": "2025-09-04T12:08:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Wind Power",
+                "United States Politics and Government",
+                "Alternative and Renewable Energy",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": [
+                "Bureau of Ocean Energy Management, Regulation and Enforcement",
+                "Interior Department",
+                "Orsted AS"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04cli-orsted-wind-02-mbtj/04cli-orsted-wind-02-mbtj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A tour of an Orsted-operated wind farm off the coast of Block Island, R.I., in 2022.",
+                    "copyright": "David Goldman/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04cli-orsted-wind-02-mbtj/04cli-orsted-wind-02-mbtj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A tour of an Orsted-operated wind farm off the coast of Block Island, R.I., in 2022.",
+                    "copyright": "David Goldman/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04cli-orsted-wind-02-mbtj/04cli-orsted-wind-02-mbtj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A tour of an Orsted-operated wind farm off the coast of Block Island, R.I., in 2022.",
+                    "copyright": "David Goldman/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Whistle-Blower Complaints Detail Tension Over Vaccines at N.I.H.",
+            "abstract": "Two former agency leaders said the administration’s “hostility” toward vaccines had spread to the agency’s top ranks.",
+            "url": "https://www.nytimes.com/2025/09/04/health/nih-whistle-blower-complaints-vaccines-trump.html",
+            "uri": "nyt://article/86ef9e8c-6a35-5496-b6b0-f31ab11a311d",
+            "byline": "By Benjamin Mueller",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T21:16:39-04:00",
+            "created_date": "2025-09-04T09:55:45-04:00",
+            "published_date": "2025-09-04T09:55:45-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Whistle-Blowers",
+                "Rumors and Misinformation",
+                "Research",
+                "Federal Aid (US)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "National Institutes of Health",
+                "Health and Human Services Department",
+                "National Institute of Allergy and Infectious Diseases",
+                "Fogarty International Center"
+            ],
+            "per_facet": [
+                "Marrazzo, Jeanne",
+                "Neuzil, Kathleen",
+                "Memoli, Matthew J",
+                "Kennedy, Robert F Jr",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/21/multimedia/03hs-whistleblower-04/21trump-news-header6p-vjkb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The National Institutes of Health headquarters in Bethesda, Md. Watching a resistance to vaccines take root even at the at the N.I.H., a redoubt of vaccine research, alarmed the two scientists. ",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/21/multimedia/03hs-whistleblower-04/21trump-news-header6p-vjkb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The National Institutes of Health headquarters in Bethesda, Md. Watching a resistance to vaccines take root even at the at the N.I.H., a redoubt of vaccine research, alarmed the two scientists. ",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/21/multimedia/03hs-whistleblower-04/21trump-news-header6p-vjkb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The National Institutes of Health headquarters in Bethesda, Md. Watching a resistance to vaccines take root even at the at the N.I.H., a redoubt of vaccine research, alarmed the two scientists. ",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Health Care Costs for Workers Begin to Climb",
+            "abstract": "A survey shows employers expect a sharp increase in benefit costs for next year, and many will want workers to shoulder more of the burden.",
+            "url": "https://www.nytimes.com/2025/09/04/health/health-care-costs-employers-workers.html",
+            "uri": "nyt://article/d2089386-0fc9-5c2f-a420-d7881d221939",
+            "byline": "By Reed Abelson",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T21:15:06-04:00",
+            "created_date": "2025-09-04T06:00:20-04:00",
+            "published_date": "2025-09-04T06:00:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Health Insurance and Managed Care",
+                "Prices (Fares, Fees and Rates)",
+                "Labor and Jobs",
+                "Hospitals",
+                "Drugs (Pharmaceuticals)",
+                "Employee Fringe Benefits"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/18/multimedia/04HS-INSURE-COSTS/18MEDICALDEBT-PRINT-zfvb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rising health care costs expected in the next year worry some experts, who fear some employees will skip or delay medical care because they can no longer afford it.",
+                    "copyright": "Arin Yoon/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/18/multimedia/04HS-INSURE-COSTS/04HS-INSURE-COSTS-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rising health care costs expected in the next year worry some experts, who fear some employees will skip or delay medical care because they can no longer afford it.",
+                    "copyright": "Arin Yoon/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/18/multimedia/04HS-INSURE-COSTS/04HS-INSURE-COSTS-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rising health care costs expected in the next year worry some experts, who fear some employees will skip or delay medical care because they can no longer afford it.",
+                    "copyright": "Arin Yoon/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "A Defiant Kennedy Defends Vaccine Changes and C.D.C. Shake-Up",
+            "abstract": "A three-hour hearing before the Senate Finance Committee revealed that the health secretary was on uncertain ground even with some Republicans who voted to confirm him.",
+            "url": "https://www.nytimes.com/2025/09/04/us/politics/kennedy-senate-hearing-vaccines-cdc.html",
+            "uri": "nyt://article/0edd7f24-c3d8-56c4-af80-cf6294ebdbd9",
+            "byline": "By Sheryl Gay Stolberg and Megan Mineiro",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T10:37:35-04:00",
+            "created_date": "2025-09-04T05:04:36-04:00",
+            "published_date": "2025-09-04T05:04:36-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Rumors and Misinformation",
+                "United States Politics and Government",
+                "vis-video"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention",
+                "Health and Human Services Department",
+                "Senate Committee on Finance",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Kennedy, Robert F Jr",
+                "Monarez, Susan",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04dc-rfk-lqcm/04dc-rfk-lqcm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Health Secretary Robert Kennedy Jr. at Thursday’s hearing, which descended into a free-for-all, in part over Mr. Kennedy’s approach to vaccination, the turmoil at the Centers for Disease Control and Prevention and especially his decision last week to fire Susan Monarez, the C.D.C. director.",
+                    "copyright": "Tierney L. Cross/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04dc-rfk-lqcm/04dc-rfk-lqcm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Health Secretary Robert Kennedy Jr. at Thursday’s hearing, which descended into a free-for-all, in part over Mr. Kennedy’s approach to vaccination, the turmoil at the Centers for Disease Control and Prevention and especially his decision last week to fire Susan Monarez, the C.D.C. director.",
+                    "copyright": "Tierney L. Cross/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04dc-rfk-lqcm/04dc-rfk-lqcm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Health Secretary Robert Kennedy Jr. at Thursday’s hearing, which descended into a free-for-all, in part over Mr. Kennedy’s approach to vaccination, the turmoil at the Centers for Disease Control and Prevention and especially his decision last week to fire Susan Monarez, the C.D.C. director.",
+                    "copyright": "Tierney L. Cross/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "3 Psychiatric Tools That Could Boost the Brain’s Natural Healing",
+            "abstract": "They work for depression and P.T.S.D. Could they also help the brain repair itself after a neurologic catastrophe?",
+            "url": "https://www.nytimes.com/2025/09/04/science/brain-injury-rehabilition-medication.html",
+            "uri": "nyt://article/dbf939e9-9474-5a7a-bccc-3a4f7168a738",
+            "byline": "By Rachel E. Gross",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T05:02:30-04:00",
+            "created_date": "2025-09-04T05:02:30-04:00",
+            "published_date": "2025-09-04T05:02:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Brain",
+                "Psychiatry and Psychiatrists",
+                "Stroke",
+                "Depression (Mental)",
+                "Physical Therapy",
+                "Psychedelic and Hallucinogenic Drugs",
+                "Therapy and Rehabilitation",
+                "Antidepressants",
+                "Voice and Speech",
+                "Nerves and Nervous System",
+                "Psilocybin Mushrooms",
+                "Mental Health and Disorders",
+                "Prozac (Drug)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Calgary (Alberta)",
+                "California"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/04SCI-BRAINPILL-SIDEBAR/04SCI-BRAINPILL-SIDEBAR-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1383,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Promising contenders for neurorehabilitation include transcranial magnetic stimulation, antidepressant pills and psychedelics, therapies that are better known for treating like depression, P.T.S.D. and obsessive-compulsive disorder.",
+                    "copyright": "Puwadol Jaturawutthichai/Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/04SCI-BRAINPILL-SIDEBAR/04SCI-BRAINPILL-SIDEBAR-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Promising contenders for neurorehabilitation include transcranial magnetic stimulation, antidepressant pills and psychedelics, therapies that are better known for treating like depression, P.T.S.D. and obsessive-compulsive disorder.",
+                    "copyright": "Puwadol Jaturawutthichai/Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/04SCI-BRAINPILL-SIDEBAR/04SCI-BRAINPILL-SIDEBAR-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Promising contenders for neurorehabilitation include transcranial magnetic stimulation, antidepressant pills and psychedelics, therapies that are better known for treating like depression, P.T.S.D. and obsessive-compulsive disorder.",
+                    "copyright": "Puwadol Jaturawutthichai/Alamy"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Inside Trump’s Unorthodox Climate Attacks in Courts Nationwide",
+            "abstract": "The administration is cranking up efforts to kill state laws and legal cases that would force fossil-fuel companies to pay for climate damage.",
+            "url": "https://www.nytimes.com/2025/09/04/climate/lawsuits-superfund-trump-justice-climate.html",
+            "uri": "nyt://article/de652518-a95c-5b00-b6cf-74c4048f7cb1",
+            "byline": "By Karen Zraick",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T22:16:27-04:00",
+            "created_date": "2025-09-04T05:00:21-04:00",
+            "published_date": "2025-09-04T05:00:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Federal-State Relations (US)",
+                "Suits and Litigation (Civil)",
+                "United States Politics and Government",
+                "Law and Legislation",
+                "States (US)",
+                "Oil (Petroleum) and Gasoline",
+                "Regulation and Deregulation of Industry",
+                "Liability for Products"
+            ],
+            "org_facet": [
+                "BP Plc",
+                "Chevron Corporation",
+                "Exxon Mobil Corp",
+                "Justice Department",
+                "National Assn of Counties"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04cli-doj-climate-suits-01-zbpf/04cli-doj-climate-suits-01-zbpf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Flood damage in Vermont in 2023. The administration has sued the state over its climate superfund law.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04cli-doj-climate-suits-01-zbpf/04cli-doj-climate-suits-01-zbpf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Flood damage in Vermont in 2023. The administration has sued the state over its climate superfund law.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04cli-doj-climate-suits-01-zbpf/04cli-doj-climate-suits-01-zbpf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Flood damage in Vermont in 2023. The administration has sued the state over its climate superfund law.",
+                    "copyright": "Hilary Swift for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Kennedy to Add New Members to Vaccine Advisory Panel",
+            "abstract": "The health secretary fired the original committee members in June, replacing them with some who have been critical of vaccines.",
+            "url": "https://www.nytimes.com/2025/09/03/health/rfk-jr-acip-vaccine-members.html",
+            "uri": "nyt://article/509116ad-b8ee-5e8e-b8fe-01076952a94d",
+            "byline": "By Apoorva Mandavilli, Dani Blum and Christina Jewett",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T09:45:44-04:00",
+            "created_date": "2025-09-03T18:32:24-04:00",
+            "published_date": "2025-09-03T18:32:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Vaccination and Immunization",
+                "Rumors and Misinformation",
+                "Appointments and Executive Changes",
+                "United States Politics and Government",
+                "Children and Childhood",
+                "Coronavirus (2019-nCoV)",
+                "Heart"
+            ],
+            "org_facet": [
+                "Advisory Committee on Immunization Practices",
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [
+                "Kennedy, Robert F Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03HS-acip-01-fblp/03HS-acip-01-fblp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A meeting of the Advisory Committee on Immunization Practices at the Centers for Disease Control and Prevention in Atlanta in June.",
+                    "copyright": "Mike Stewart/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03HS-acip-01-fblp/03HS-acip-01-fblp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A meeting of the Advisory Committee on Immunization Practices at the Centers for Disease Control and Prevention in Atlanta in June.",
+                    "copyright": "Mike Stewart/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03HS-acip-01-fblp/03HS-acip-01-fblp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A meeting of the Advisory Committee on Immunization Practices at the Centers for Disease Control and Prevention in Atlanta in June.",
+                    "copyright": "Mike Stewart/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Watchdog Warns Trump’s Cuts at FEMA Pose a ‘Major Challenge’",
+            "abstract": "The country lacks the ability to address multiple disasters happening at once, the Government Accountability Office said.",
+            "url": "https://www.nytimes.com/2025/09/03/climate/fema-cuts-government-accountability-office.html",
+            "uri": "nyt://article/a0679e5a-ee83-5dcc-8e55-f139717cb976",
+            "byline": "By Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2025-09-03T15:52:35-04:00",
+            "created_date": "2025-09-03T15:52:35-04:00",
+            "published_date": "2025-09-03T15:52:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United States Politics and Government",
+                "Hurricanes and Tropical Storms",
+                "Disasters and Emergencies",
+                "Government Employees"
+            ],
+            "org_facet": [
+                "Federal Emergency Management Agency",
+                "Government Accountability Office"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/21/multimedia/03cli-fema/21nat-disaster-season-mcpq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers with the Federal Emergency Management Agency in October looking through the wreckage after Hurricane Helene in Swannanoa, N.C.",
+                    "copyright": "Loren Elliott for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/21/multimedia/03cli-fema/21nat-disaster-season-mcpq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers with the Federal Emergency Management Agency in October looking through the wreckage after Hurricane Helene in Swannanoa, N.C.",
+                    "copyright": "Loren Elliott for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/05/21/multimedia/03cli-fema/03cli-fema-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers with the Federal Emergency Management Agency in October looking through the wreckage after Hurricane Helene in Swannanoa, N.C.",
+                    "copyright": "Loren Elliott for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "F.D.A. Official Overruled Scientists on Wide Access to Covid Shots",
+            "abstract": "The agency’s staff scientists pointed out how Covid was still unpredictable and posed a threat to toddlers, but the official decided to restrict shots only to children with risk factors.",
+            "url": "https://www.nytimes.com/2025/09/03/health/fda-covid-vaccines-rfk-jr.html",
+            "uri": "nyt://article/fd2173d1-3a0a-5a79-a4a1-e3671951dba4",
+            "byline": "By Christina Jewett",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T11:50:38-04:00",
+            "created_date": "2025-09-03T13:58:28-04:00",
+            "published_date": "2025-09-03T13:58:28-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Regulation and Deregulation of Industry",
+                "Drugs (Pharmaceuticals)",
+                "Children and Childhood",
+                "Disease Rates",
+                "Research",
+                "Drugstores",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Food and Drug Administration",
+                "Centers for Disease Control and Prevention",
+                "Health and Human Services Department",
+                "Moderna Inc",
+                "Pfizer Inc"
+            ],
+            "per_facet": [
+                "Kennedy, Robert F Jr",
+                "Prasad, Vinayak K",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03HS-FDA-OVERRIDE-01-fhwz/03HS-FDA-OVERRIDE-01-fhwz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Vinay Prasad disagreed with staff at the F.D.A., wanting to narrow Covid vaccination approvals to people younger than 65 who have health conditions that put them at risk for severe disease.",
+                    "copyright": "Emily Elconin/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03HS-FDA-OVERRIDE-01-fhwz/03HS-FDA-OVERRIDE-01-fhwz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Vinay Prasad disagreed with staff at the F.D.A., wanting to narrow Covid vaccination approvals to people younger than 65 who have health conditions that put them at risk for severe disease.",
+                    "copyright": "Emily Elconin/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03HS-FDA-OVERRIDE-01-fhwz/03HS-FDA-OVERRIDE-01-fhwz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Vinay Prasad disagreed with staff at the F.D.A., wanting to narrow Covid vaccination approvals to people younger than 65 who have health conditions that put them at risk for severe disease.",
+                    "copyright": "Emily Elconin/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "States Go Their Own (and Contradictory) Ways on Vaccine Policy",
+            "abstract": "California, Oregon and Washington said they would work together to review scientific data, saying the C.D.C. could no longer be trusted. But Florida said it would abolish all vaccine mandates.",
+            "url": "https://www.nytimes.com/2025/09/03/us/rfk-jr-vaccines-western-health-alliance.html",
+            "uri": "nyt://article/dbc44780-8b49-54b1-b447-1db95df4f587",
+            "byline": "By Emily Baumgaertner Nunn",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T09:43:18-04:00",
+            "created_date": "2025-09-03T10:00:06-04:00",
+            "published_date": "2025-09-03T10:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Federal-State Relations (US)",
+                "Governors (US)",
+                "Coronavirus (2019-nCoV)",
+                "Influenza",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention",
+                "Advisory Committee on Immunization Practices",
+                "Health and Human Services Department"
+            ],
+            "per_facet": [
+                "Kennedy, Robert F Jr"
+            ],
+            "geo_facet": [
+                "California",
+                "Oregon",
+                "Washington (State)",
+                "Florida"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03NAT-VACCINE-ALLIANCE-vlkw/03NAT-VACCINE-ALLIANCE-vlkw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Federal policies on vaccines have been changing rapidly since Robert F. Kennedy Jr., a vaccine skeptic, became secretary of Health and Human Services. ",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03NAT-VACCINE-ALLIANCE-vlkw/03NAT-VACCINE-ALLIANCE-vlkw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Federal policies on vaccines have been changing rapidly since Robert F. Kennedy Jr., a vaccine skeptic, became secretary of Health and Human Services. ",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/03NAT-VACCINE-ALLIANCE-vlkw/03NAT-VACCINE-ALLIANCE-vlkw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Federal policies on vaccines have been changing rapidly since Robert F. Kennedy Jr., a vaccine skeptic, became secretary of Health and Human Services. ",
+                    "copyright": "Alisha Jucevic for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "President Trump Is Alive. The Internet Was Convinced Otherwise.",
+            "abstract": "In the world of presidential health, distrust and speculation run so rampant that even Mr. Trump’s online assurance that he was fine was immediately explained away as part of a cover-up.",
+            "url": "https://www.nytimes.com/2025/09/02/us/politics/trump-health-bruise-conspiracies.html",
+            "uri": "nyt://article/bc37c7c4-46cb-5214-a9ed-23fd0dec3b3a",
+            "byline": "By Katie Rogers",
+            "item_type": "Article",
+            "updated_date": "2025-09-04T06:00:37-04:00",
+            "created_date": "2025-09-02T18:23:12-04:00",
+            "published_date": "2025-09-02T18:23:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Age, Chronological",
+                "Conspiracy Theories",
+                "Rumors and Misinformation",
+                "Social Media",
+                "United States Politics and Government",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02dc-TRUMP-HEALTH-jmpk/02dc-TRUMP-HEALTH-jmpk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump was seen looking at his cellphone as he departed his golf club in Virginia on Sunday.",
+                    "copyright": "Anna Rose Layden for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02dc-TRUMP-HEALTH-jmpk/02dc-TRUMP-HEALTH-jmpk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump was seen looking at his cellphone as he departed his golf club in Virginia on Sunday.",
+                    "copyright": "Anna Rose Layden for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02dc-TRUMP-HEALTH-jmpk/02dc-TRUMP-HEALTH-jmpk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump was seen looking at his cellphone as he departed his golf club in Virginia on Sunday.",
+                    "copyright": "Anna Rose Layden for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Trump Wants Proof That Covid Vaccines Work. It’s Easy to Find.",
+            "abstract": "In a post on Truth Social, the president suggested that the C.D.C. was being “ripped apart” over a question that was answered long ago.",
+            "url": "https://www.nytimes.com/2025/09/02/health/trump-covid-vaccines.html",
+            "uri": "nyt://article/44e0fa9a-1d74-50dd-9ce4-cdc0b8579fb4",
+            "byline": "By Apoorva Mandavilli and Carl Zimmer",
+            "item_type": "Article",
+            "updated_date": "2025-09-03T23:42:17-04:00",
+            "created_date": "2025-09-02T17:11:18-04:00",
+            "published_date": "2025-09-02T17:11:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Vaccination and Immunization",
+                "Drugs (Pharmaceuticals)",
+                "Rumors and Misinformation",
+                "United States Politics and Government",
+                "Coronavirus (2019-nCoV)",
+                "Vaccination Proof and Immunization Records",
+                "Clinical Trials",
+                "Disease Rates"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention",
+                "BioNTech SE",
+                "Moderna Inc",
+                "Novavax Inc"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02HS-VACCINE-pjmv/pjmv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Five years after the pandemic began, most people in the U.S. have some immunity to Covid from vaccination, infection, or both. ",
+                    "copyright": "Adriana Zehbrauskas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02HS-VACCINE-pjmv/pjmv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Five years after the pandemic began, most people in the U.S. have some immunity to Covid from vaccination, infection, or both. ",
+                    "copyright": "Adriana Zehbrauskas for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02HS-VACCINE-pjmv/pjmv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Five years after the pandemic began, most people in the U.S. have some immunity to Covid from vaccination, infection, or both. ",
+                    "copyright": "Adriana Zehbrauskas for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Reduced Screening May Have Led to Rise in Advanced Prostate Cancer Diagnoses",
+            "abstract": "Changes in screening recommendations over a decade ago may have inadvertently resulted in later diagnosis of the most common cancer in men, a new study has found.",
+            "url": "https://www.nytimes.com/2025/09/02/health/prostate-cancer-rise-reduced-screening.html",
+            "uri": "nyt://article/cac16a49-5ea0-5136-b4a0-d4d3a777bc84",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2025-09-03T11:56:07-04:00",
+            "created_date": "2025-09-02T11:46:49-04:00",
+            "published_date": "2025-09-02T11:46:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Prostate Cancer",
+                "Preventive Medicine",
+                "Tests (Medical)",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "American Cancer Society",
+                "CA: A Cancer Journal for Clinicians",
+                "United States Preventive Services Task Force"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/science/02hs-prostate-cancer/02hs-prostate-cancer-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1291,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ultrasound and M.R.I. images of a prostate biopsy in California.",
+                    "copyright": "Michael Macor/The San Francisco Chronicle, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/science/02hs-prostate-cancer/02hs-prostate-cancer-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ultrasound and M.R.I. images of a prostate biopsy in California.",
+                    "copyright": "Michael Macor/The San Francisco Chronicle, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/science/02hs-prostate-cancer/02hs-prostate-cancer-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ultrasound and M.R.I. images of a prostate biopsy in California.",
+                    "copyright": "Michael Macor/The San Francisco Chronicle, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Scientists May Have Identified a Culprit Behind Declining Amazon Rains",
+            "abstract": "Deforestation is playing a greater role than researchers expected, according to a new study.",
+            "url": "https://www.nytimes.com/2025/09/02/climate/amazon-brazil-drought-rain-deforestation.html",
+            "uri": "nyt://article/6c414062-db5a-5311-b6d7-1e1bef858ac6",
+            "byline": "By Sachi Kitajima Mulkey",
+            "item_type": "Article",
+            "updated_date": "2025-09-02T12:01:30-04:00",
+            "created_date": "2025-09-02T11:00:08-04:00",
+            "published_date": "2025-09-02T11:00:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Forests and Forestry",
+                "Trees and Shrubs",
+                "Drought",
+                "Rain",
+                "Research",
+                "Conservation of Resources",
+                "Global Warming",
+                "Greenhouse Gas Emissions"
+            ],
+            "org_facet": [
+                "Nature Communications (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Amazon Jungle",
+                "Amazon River Basin",
+                "Brazil"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02cli-rain-deforestation-pmgz/02cli-rain-deforestation-pmgz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A deforested area in Acre State, in western Brazil, in April. For the first half of 2025, officials reported a 27 percent increase in tree loss nationwide compared with the same period last year.",
+                    "copyright": "Victor Moriyama for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02cli-rain-deforestation-pmgz/02cli-rain-deforestation-pmgz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A deforested area in Acre State, in western Brazil, in April. For the first half of 2025, officials reported a 27 percent increase in tree loss nationwide compared with the same period last year.",
+                    "copyright": "Victor Moriyama for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02cli-rain-deforestation-pmgz/02cli-rain-deforestation-pmgz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A deforested area in Acre State, in western Brazil, in April. For the first half of 2025, officials reported a 27 percent increase in tree loss nationwide compared with the same period last year.",
+                    "copyright": "Victor Moriyama for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Scientists Denounce Trump Administration’s Climate Report",
+            "abstract": "Scores of researchers reviewed the Energy Department’s argument about greenhouse gases and found serious deficiencies.",
+            "url": "https://www.nytimes.com/2025/09/02/climate/climate-science-report-energy-department.html",
+            "uri": "nyt://article/95c3cb7a-a3c6-5c46-ab2d-c4b2ccf0faf0",
+            "byline": "By Lisa Friedman and Sachi Kitajima Mulkey",
+            "item_type": "Article",
+            "updated_date": "2025-09-02T23:05:13-04:00",
+            "created_date": "2025-09-02T09:00:09-04:00",
+            "published_date": "2025-09-02T09:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United States Politics and Government",
+                "Carbon Dioxide",
+                "Research",
+                "Oil (Petroleum) and Gasoline",
+                "Science and Technology",
+                "Coal"
+            ],
+            "org_facet": [
+                "Energy Department"
+            ],
+            "per_facet": [
+                "Wright, Chris (1965- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02cli-DOErebuttal-fzmh/02cli-DOErebuttal-fzmh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A heat relief station at the Salvation Army Phoenix Citadel Corps.",
+                    "copyright": "Juan Arredondo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02cli-DOErebuttal-fzmh/02cli-DOErebuttal-fzmh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A heat relief station at the Salvation Army Phoenix Citadel Corps.",
+                    "copyright": "Juan Arredondo for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/02/multimedia/02cli-DOErebuttal-fzmh/02cli-DOErebuttal-fzmh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A heat relief station at the Salvation Army Phoenix Citadel Corps.",
+                    "copyright": "Juan Arredondo for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Cue the Sun: This Lab Recreates Hot, Sweaty Days to Test Humans",
+            "abstract": "Our reporter hits the treadmill to understand how scientists study extreme heat.",
+            "url": "https://www.nytimes.com/2025/09/02/climate/research-extreme-heat-lab.html",
+            "uri": "nyt://article/353591ba-f46c-5170-b535-d9c66295df30",
+            "byline": "By Hiroko Tabuchi and Christopher Capozziello",
+            "item_type": "Article",
+            "updated_date": "2025-09-03T11:50:59-04:00",
+            "created_date": "2025-09-02T05:03:35-04:00",
+            "published_date": "2025-09-02T05:03:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Heat and Heat Waves",
+                "Tests (Medical)",
+                "Sweating",
+                "Dehydration",
+                "Workplace Hazards and Violations",
+                "Laboratories and Scientific Equipment",
+                "Research",
+                "Heatstroke"
+            ],
+            "org_facet": [
+                "University of Connecticut"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/29/multimedia/00CLI-HEATLAB-promo/00CLI-HEATLAB-09-cbtl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christopher Capozziello for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/29/multimedia/00CLI-HEATLAB-promo/00CLI-HEATLAB-09-cbtl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christopher Capozziello for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/29/multimedia/00CLI-HEATLAB-promo/00CLI-HEATLAB-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christopher Capozziello for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "arts",
+            "subsection": "television",
+            "title": "With ‘Weather Hunters,’ Al Roker Finally Brings the Rainbow Home",
+            "abstract": "Inspired by a funny request from his children years ago, his new series teaches young viewers about clouds, thunder and the ingredients of a rainbow.",
+            "url": "https://www.nytimes.com/2025/09/02/arts/television/al-roker-weather-hunters.html",
+            "uri": "nyt://article/3603c619-ccaa-56cd-ad1f-445518d52a3a",
+            "byline": "By Laurel Graeber",
+            "item_type": "Article",
+            "updated_date": "2025-09-03T22:40:59-04:00",
+            "created_date": "2025-09-02T05:03:12-04:00",
+            "published_date": "2025-09-02T05:03:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Television",
+                "Weather Hunters (TV Program)",
+                "Public Broadcasting",
+                "Content Type: Personal Profile"
+            ],
+            "org_facet": [
+                "PBS Kids"
+            ],
+            "per_facet": [
+                "Roker, Al"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/07cul-weather-hunters-qftb/07cul-weather-hunters-qftb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1463,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Al Roker, who has long anchored the weather report on the NBC morning show “Today,” has now created an educational animated series for PBS Kids.",
+                    "copyright": "Thea Traff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/07cul-weather-hunters-qftb/07cul-weather-hunters-qftb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Al Roker, who has long anchored the weather report on the NBC morning show “Today,” has now created an educational animated series for PBS Kids.",
+                    "copyright": "Thea Traff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/07cul-weather-hunters-qftb/07cul-weather-hunters-qftb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Al Roker, who has long anchored the weather report on the NBC morning show “Today,” has now created an educational animated series for PBS Kids.",
+                    "copyright": "Thea Traff for The New York Times"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}

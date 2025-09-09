@@ -1,0 +1,1558 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "section": "U.S. News",
+    "last_updated": "2025-04-21T14:00:30-04:00",
+    "num_results": 24,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Tensions Mount As Trump Administration Threatens Federal Crackdown in Chicago",
+            "abstract": "In a social media post, President Trump said Chicago was “about to find out why it’s called the Department of WAR.” Illinois officials condemned the message.",
+            "url": "https://www.nytimes.com/2025/09/06/us/trump-chicago-ice-raids-immigration.html",
+            "uri": "nyt://article/3f1f9667-3715-5e49-b8ad-626d40893c3e",
+            "byline": "By Hamed Aleaziz and Julie Bosman",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T20:06:40-04:00",
+            "created_date": "2025-09-06T20:06:25-04:00",
+            "published_date": "2025-09-06T20:06:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Illegal Immigration"
+            ],
+            "org_facet": [
+                "Immigration and Customs Enforcement (US)"
+            ],
+            "per_facet": [
+                "Pritzker, J B",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Chicago (Ill)",
+                "Illinois"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-chicago-ice-mklg/06nat-chicago-ice-mklg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Metal barricades were placed around the federal courthouse on Thursday night in the heart of Chicago’s downtown.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-chicago-ice-mklg/06nat-chicago-ice-mklg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Metal barricades were placed around the federal courthouse on Thursday night in the heart of Chicago’s downtown.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-chicago-ice-mklg/06nat-chicago-ice-mklg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Metal barricades were placed around the federal courthouse on Thursday night in the heart of Chicago’s downtown.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Man Is Identified 52 Years After He Vanished, Bringing ‘Rest’ to His Sisters",
+            "abstract": "Eric Singer left his Ohio home on his bicycle, never to be seen again. With the help of advances in DNA research, he was finally found.",
+            "url": "https://www.nytimes.com/2025/09/06/us/algonquin-park-ontario-body.html",
+            "uri": "nyt://article/d65c5005-a3ca-58b1-b233-6bbbd7e279ef",
+            "byline": "By Rylee Kirk",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:44:57-04:00",
+            "created_date": "2025-09-06T17:44:57-04:00",
+            "published_date": "2025-09-06T17:44:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Missing Persons",
+                "Forensic Science",
+                "Genetics and Heredity",
+                "DNA (Deoxyribonucleic Acid)",
+                "Parks and Other Recreation Areas",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "DNA Doe Project (Nonprofit)"
+            ],
+            "per_facet": [
+                "Singer, Eric"
+            ],
+            "geo_facet": [
+                "Algonquin Provincial Park (Ontario)",
+                "Cleveland (Ohio)",
+                "Ontario (Canada)",
+                "New Mexico"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-missing/06xp-missing-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1520,
+                    "width": 1214,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Singer was 22 when he was last seen alive in Cleveland in 1973.",
+                    "copyright": "Ontario Provincial Police"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-missing/06xp-missing-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Singer was 22 when he was last seen alive in Cleveland in 1973.",
+                    "copyright": "Ontario Provincial Police"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-missing/06xp-missing-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Singer was 22 when he was last seen alive in Cleveland in 1973.",
+                    "copyright": "Ontario Provincial Police"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Justice Breyer Defends Judge Accused of Defying Supreme Court Order",
+            "abstract": "The justice’s comments reflected tensions within the judiciary, as trial judges struggle to interpret the Supreme Court’s often cryptic emergency orders.",
+            "url": "https://www.nytimes.com/2025/09/06/us/politics/justice-breyer-boston-judge.html",
+            "uri": "nyt://article/56909615-aea4-5355-ab7b-5b8cf600d3e4",
+            "byline": "By Adam Liptak",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:32:04-04:00",
+            "created_date": "2025-09-06T17:32:04-04:00",
+            "published_date": "2025-09-06T17:32:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Decisions and Verdicts",
+                "United States Politics and Government",
+                "Courts and the Judiciary",
+                "Federal Courts (US)"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Breyer, Stephen G",
+                "Burroughs, Allison D",
+                "Young, William G",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-breyer-pjcw/06dc-breyer-pjcw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Justice Stephen Breyer in 2021.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-breyer-pjcw/06dc-breyer-pjcw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Justice Stephen Breyer in 2021.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-breyer-pjcw/06dc-breyer-pjcw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Justice Stephen Breyer in 2021.",
+                    "copyright": "Erin Schaff/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "President of Peace, Department of War. A New Name Sends Mixed Signals.",
+            "abstract": "President Trump’s renaming of the Defense Department comes amid his campaign for a Nobel Peace Prize. On Saturday, he wrote on social media that Chicago was “about to find out why it’s called the Department of WAR.”",
+            "url": "https://www.nytimes.com/2025/09/06/us/politics/trump-department-of-war.html",
+            "uri": "nyt://article/bac00be4-09d4-5107-a408-0a685ce40872",
+            "byline": "By Erica L. Green",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T20:36:11-04:00",
+            "created_date": "2025-09-06T17:20:14-04:00",
+            "published_date": "2025-09-06T17:20:14-04:00",
+            "material_type_facet": "",
+            "kicker": "White House Memo",
+            "des_facet": [
+                "United States Politics and Government",
+                "United States Defense and Military Forces",
+                "Presidents and Presidency (US)",
+                "Executive Orders and Memorandums"
+            ],
+            "org_facet": [
+                "Defense Department"
+            ],
+            "per_facet": [
+                "Hegseth, Pete",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-trump-war-jgtp/06dc-trump-war-jgtp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order on Friday to change the name of the Defense Department to the Department of War. Without congressional approval, the new name will be only ceremonial.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-trump-war-jgtp/06dc-trump-war-jgtp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order on Friday to change the name of the Defense Department to the Department of War. Without congressional approval, the new name will be only ceremonial.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-trump-war-jgtp/06dc-trump-war-jgtp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order on Friday to change the name of the Defense Department to the Department of War. Without congressional approval, the new name will be only ceremonial.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Lottery Winners Share Hard Lessons Ahead of $1.8 Billion Powerball Drawing",
+            "abstract": "Past jackpot winners recall fortunes found, mistakes made and advice for those holding a lucky ticket.",
+            "url": "https://www.nytimes.com/2025/09/06/us/powerball-lottery-past-winners-advice.html",
+            "uri": "nyt://article/c67435ed-9dc5-583b-adc0-7b80ec7fd3c1",
+            "byline": "By Mark Walker",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T15:27:17-04:00",
+            "created_date": "2025-09-06T15:27:17-04:00",
+            "published_date": "2025-09-06T15:27:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Lotteries",
+                "Gambling",
+                "Credit and Debt",
+                "Records and Achievements"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Missouri",
+                "Illinois",
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-lottery-mtcw/06xp-lottery-mtcw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some last lottery winners have turned over their fortune to a financial adviser to manage. Others have seen their money fritter away on expensive purchases.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-lottery-mtcw/06xp-lottery-mtcw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some last lottery winners have turned over their fortune to a financial adviser to manage. Others have seen their money fritter away on expensive purchases.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-lottery-mtcw/06xp-lottery-mtcw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some last lottery winners have turned over their fortune to a financial adviser to manage. Others have seen their money fritter away on expensive purchases.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "ICE Has Begun Immigration Crackdown in Massachusetts",
+            "abstract": "The operation includes Boston, whose mayor has drawn the administration’s ire for speaking out against the growing scale of its immigration actions.",
+            "url": "https://www.nytimes.com/2025/09/06/us/politics/ice-operation-boston.html",
+            "uri": "nyt://article/ff64b15b-687b-59e0-929a-c41688f97c41",
+            "byline": "By Hamed Aleaziz",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:07:45-04:00",
+            "created_date": "2025-09-06T13:52:27-04:00",
+            "published_date": "2025-09-06T13:52:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Illegal Immigration",
+                "Federal-State Relations (US)",
+                "Immigration Detention"
+            ],
+            "org_facet": [
+                "Immigration and Customs Enforcement (US)"
+            ],
+            "per_facet": [
+                "Wu, Michelle (1985- )",
+                "Bondi, Pamela J"
+            ],
+            "geo_facet": [
+                "Boston (Mass)",
+                "Massachusetts"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-ice-boston-vwfb/06dc-ice-boston-vwfb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A homeland security officer observed a news briefing by Mayor Michelle Wu in Boston last month, after Attorney General Pam Bondi demanded that Boston lift its sanctuary city policies.",
+                    "copyright": "Brian Snyder/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-ice-boston-vwfb/06dc-ice-boston-vwfb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A homeland security officer observed a news briefing by Mayor Michelle Wu in Boston last month, after Attorney General Pam Bondi demanded that Boston lift its sanctuary city policies.",
+                    "copyright": "Brian Snyder/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-ice-boston-vwfb/06dc-ice-boston-vwfb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A homeland security officer observed a news briefing by Mayor Michelle Wu in Boston last month, after Attorney General Pam Bondi demanded that Boston lift its sanctuary city policies.",
+                    "copyright": "Brian Snyder/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Grand Juries in D.C. Reject Wave of Charges Under Trump’s Crackdown",
+            "abstract": "The persistent rejections suggest that the grand jurors may have had enough of prosecutors seeking harsh charges in a highly politicized environment.",
+            "url": "https://www.nytimes.com/2025/09/06/us/trump-dc-national-guard-grand-juries-crime.html",
+            "uri": "nyt://article/369e7275-de57-5bfd-85fe-f1b4b7a9f08e",
+            "byline": "By Alan Feuer",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T20:23:07-04:00",
+            "created_date": "2025-09-06T05:02:21-04:00",
+            "published_date": "2025-09-06T05:02:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Jury System",
+                "Demonstrations, Protests and Riots",
+                "United States Attorneys"
+            ],
+            "org_facet": [
+                "Fox News Channel",
+                "Justice Department",
+                "Secret Service"
+            ],
+            "per_facet": [
+                "Pirro, Jeanine",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Michigan",
+                "Washington (DC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-grandjuries-pzml/dc-grandjuries-pzml-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Grand jurors have refused in at least seven recent cases to indict their fellow residents who became entangled in the president’s show of force.",
+                    "copyright": "Eric Lee for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-grandjuries-pzml/dc-grandjuries-pzml-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Grand jurors have refused in at least seven recent cases to indict their fellow residents who became entangled in the president’s show of force.",
+                    "copyright": "Eric Lee for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-grandjuries-pzml/dc-grandjuries-pzml-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Grand jurors have refused in at least seven recent cases to indict their fellow residents who became entangled in the president’s show of force.",
+                    "copyright": "Eric Lee for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Settlement Talks Stall Between Harvard and the Trump Administration",
+            "abstract": "One major reason is said to be an emerging divide within the administration over whether the current framework is too favorable to Harvard.",
+            "url": "https://www.nytimes.com/2025/09/06/us/politics/harvard-trump-negotiations-stall.html",
+            "uri": "nyt://article/33705d76-a313-533b-824d-5fcff3684479",
+            "byline": "By Michael C. Bender, Michael S. Schmidt and Alan Blinder",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:48:34-04:00",
+            "created_date": "2025-09-06T05:02:08-04:00",
+            "published_date": "2025-09-06T05:02:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Colleges and Universities",
+                "United States Politics and Government",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": [
+                "Columbia University",
+                "Harvard University",
+                "Justice Department",
+                "American Assn of University Professors"
+            ],
+            "per_facet": [
+                "Dhillon, Harmeet",
+                "Burroughs, Allison D",
+                "Mailman, May (1988- )",
+                "McMahon, Linda E",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-harvard-mpwc/dc-harvard-mpwc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration has opened more than a dozen federal investigations into Harvard over a variety of targets, from the university’s admissions policies to its patent paperwork.",
+                    "copyright": "Sophie Park for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-harvard-mpwc/dc-harvard-mpwc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration has opened more than a dozen federal investigations into Harvard over a variety of targets, from the university’s admissions policies to its patent paperwork.",
+                    "copyright": "Sophie Park for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-harvard-mpwc/dc-harvard-mpwc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration has opened more than a dozen federal investigations into Harvard over a variety of targets, from the university’s admissions policies to its patent paperwork.",
+                    "copyright": "Sophie Park for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Many Cities Say Yes to Federal Police Help, but No to ‘Occupation’",
+            "abstract": "Some mayors and police chiefs said they would welcome more traditional law enforcement cooperation with federal agents, but see the National Guard as a step too far.",
+            "url": "https://www.nytimes.com/2025/09/06/us/federal-law-enforcement-national-guard-policing.html",
+            "uri": "nyt://article/45407f0e-ec88-5965-b759-24e03362b23b",
+            "byline": "By Shaila Dewan and Nicholas Bogel-Burroughs",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T14:16:33-04:00",
+            "created_date": "2025-09-06T05:02:06-04:00",
+            "published_date": "2025-09-06T05:02:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Federal-State Relations (US)",
+                "United States Defense and Military Forces",
+                "Police",
+                "Mayors"
+            ],
+            "org_facet": [
+                "National Guard",
+                "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+                "Federal Bureau of Investigation",
+                "Drug Enforcement Administration"
+            ],
+            "per_facet": [
+                "Dyer, Jerry (1959- )",
+                "Johnson, Brandon (Chicago, Ill, Politician)",
+                "Lucas, Quinton"
+            ],
+            "geo_facet": [
+                "Albuquerque (NM)",
+                "Fresno (Calif)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-fed-policing-cpqt/06nat-fed-policing-cpqt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "National Guard soldiers patrolling around the Jefferson Memorial in Washington, D.C.",
+                    "copyright": "Alex Kent for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-fed-policing-cpqt/06nat-fed-policing-cpqt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "National Guard soldiers patrolling around the Jefferson Memorial in Washington, D.C.",
+                    "copyright": "Alex Kent for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-fed-policing-cpqt/06nat-fed-policing-cpqt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "National Guard soldiers patrolling around the Jefferson Memorial in Washington, D.C.",
+                    "copyright": "Alex Kent for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "At George Mason University, Trump Has Found an Unbending Adversary",
+            "abstract": "Gregory Washington, George Mason’s first Black president, runs a university that prizes diversity. That has made him a target of the Trump administration.",
+            "url": "https://www.nytimes.com/2025/09/06/us/george-mason-university-gregory-washington-trump-attack.html",
+            "uri": "nyt://article/7dca9b1a-941b-580c-8445-3b0b61a5863a",
+            "byline": "By Stephanie Saul",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T13:31:18-04:00",
+            "created_date": "2025-09-06T05:01:55-04:00",
+            "published_date": "2025-09-06T05:01:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Colleges and Universities",
+                "Civil Rights and Liberties",
+                "Black People",
+                "Diversity Initiatives"
+            ],
+            "org_facet": [
+                "George Mason University"
+            ],
+            "per_facet": [
+                "Washington, Gregory N",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/00nat-george-mason-03-qmvj/00nat-george-mason-03-qmvj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration demanded that Gregory Washington, president of George Mason University, personally apologize for supporting diversity programs. He said no.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/00nat-george-mason-03-qmvj/00nat-george-mason-03-qmvj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration demanded that Gregory Washington, president of George Mason University, personally apologize for supporting diversity programs. He said no.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/00nat-george-mason-03-qmvj/00nat-george-mason-03-qmvj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration demanded that Gregory Washington, president of George Mason University, personally apologize for supporting diversity programs. He said no.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "What Has the Trump Administration Gotten From Law Firms and Universities?",
+            "abstract": "A recent ruling against the Trump administration’s federal funding cuts was a temporary win for Harvard. But a dozen other institutions already struck deals with the government involving millions of dollars in payments and commitments to prioritize causes championed by the president.",
+            "url": "https://www.nytimes.com/interactive/2025/09/06/us/trump-deals-law-firms-universities-concessions.html",
+            "uri": "nyt://interactive/efbdebe0-c29b-521b-a9a5-be6712dd5a3a",
+            "byline": "By Ashley Wu",
+            "item_type": "Interactive",
+            "updated_date": "2025-09-06T05:00:41-04:00",
+            "created_date": "2025-09-06T05:00:41-04:00",
+            "published_date": "2025-09-06T05:00:41-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Colleges and Universities",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Columbia University",
+                "Brown University"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/2025-08-12-trump-deals-index/2025-08-12-trump-deals-index-superJumbo-v3.png",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/2025-08-12-trump-deals-index/2025-08-12-trump-deals-index-threeByTwoSmallAt2X-v4.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/2025-08-12-trump-deals-index/2025-08-12-trump-deals-index-thumbLarge-v3.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Trump Says U.S. Military Has ‘Never Fought to Win’ Since World War II",
+            "abstract": "As he signed an order recognizing the Defense Department as the “Department of War,” President Trump said that the country “could have won every war, but we really chose to be very politically correct.”",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-military-wars.html",
+            "uri": "nyt://article/6ea84307-cadd-5c73-a71a-e624fda36fd9",
+            "byline": "By Erica L. Green",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T20:44:42-04:00",
+            "created_date": "2025-09-05T20:36:12-04:00",
+            "published_date": "2025-09-05T20:36:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "United States Defense and Military Forces",
+                "Executive Orders and Memorandums",
+                "World War II (1939-45)"
+            ],
+            "org_facet": [
+                "Defense Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Hegseth, Pete"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-trump1-lwvc/05dc-trump1-lwvc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“The Department of War sends a signal,” President Trump said on Friday. The change, he added, was a “much more appropriate name, especially in light of where the world is right now.” ",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-trump1-lwvc/05dc-trump1-lwvc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“The Department of War sends a signal,” President Trump said on Friday. The change, he added, was a “much more appropriate name, especially in light of where the world is right now.” ",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-trump1-lwvc/05dc-trump1-lwvc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“The Department of War sends a signal,” President Trump said on Friday. The change, he added, was a “much more appropriate name, especially in light of where the world is right now.” ",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Will Trump Have to Run From the Economy?",
+            "abstract": "It’s the issue voters cared most about in 2024, and there are signs of trouble.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-economy-jobs-midterms.html",
+            "uri": "nyt://article/97bdd53e-ef0c-5847-aa00-695237139394",
+            "byline": "By Jess Bidgood",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T12:20:12-04:00",
+            "created_date": "2025-09-05T19:10:08-04:00",
+            "published_date": "2025-09-05T19:10:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Economy",
+                "Inflation (Economics)",
+                "Customs (Tariff)",
+                "Labor and Jobs",
+                "Midterm Elections (2026)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/us/politics/newsletter-1/newsletter-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2046,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Gallup poll found that President Trump’s approval rating on the economy fell to 37 percent in August, compared with 42 percent in February.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/us/politics/newsletter-1/newsletter-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Gallup poll found that President Trump’s approval rating on the economy fell to 37 percent in August, compared with 42 percent in February.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/us/politics/newsletter-1/newsletter-1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Gallup poll found that President Trump’s approval rating on the economy fell to 37 percent in August, compared with 42 percent in February.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Off-Duty Pilot Who Tried to Shut Off Engines Expresses Regret in Court",
+            "abstract": "The former Alaska Airlines pilot had consumed psychedelic mushrooms two days before the flight. Judges approved plea agreements in his case on Friday.",
+            "url": "https://www.nytimes.com/2025/09/05/us/alaska-airlines-pilot-plea-agreement-mushrooms.html",
+            "uri": "nyt://article/07c0c0a8-ae27-5a5b-9241-740489e328b6",
+            "byline": "By Michael Levenson",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T19:23:22-04:00",
+            "created_date": "2025-09-05T18:44:37-04:00",
+            "published_date": "2025-09-05T18:44:37-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Airlines and Airplanes",
+                "Pilots",
+                "Aviation Accidents, Safety and Disasters",
+                "Mental Health and Disorders",
+                "Psilocybin Mushrooms"
+            ],
+            "org_facet": [
+                "Alaska Airlines",
+                "Horizon Air"
+            ],
+            "per_facet": [
+                "Emerson, Joseph D"
+            ],
+            "geo_facet": [
+                "Portland (Ore)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-pilot-kpbw/05xp-pilot-kpbw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joseph D. Emerson, an off-duty Alaska Airlines pilot, was sitting in an extra seat in the cockpit during a flight on Oct. 22, 2023, when he tried to cut fuel to the engines, the authorities said.",
+                    "copyright": "Jae C. Hong/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-pilot-kpbw/05xp-pilot-kpbw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joseph D. Emerson, an off-duty Alaska Airlines pilot, was sitting in an extra seat in the cockpit during a flight on Oct. 22, 2023, when he tried to cut fuel to the engines, the authorities said.",
+                    "copyright": "Jae C. Hong/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-pilot-kpbw/05xp-pilot-kpbw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joseph D. Emerson, an off-duty Alaska Airlines pilot, was sitting in an extra seat in the cockpit during a flight on Oct. 22, 2023, when he tried to cut fuel to the engines, the authorities said.",
+                    "copyright": "Jae C. Hong/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Trump Didn’t Notify Congress About a High-Stakes SEALs Mission. That Could Be an Issue.",
+            "abstract": "The Trump administration failed to tell lawmakers about a 2019 SEAL Team 6 incursion into North Korean territory that went awry.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-congress-national-security-navy-seals.html",
+            "uri": "nyt://article/2f16bbd3-61e5-54b5-b6dc-51b661c28cfb",
+            "byline": "By Charlie Savage",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:10:53-04:00",
+            "created_date": "2025-09-05T18:39:02-04:00",
+            "published_date": "2025-09-05T18:39:02-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Defense and Military Forces",
+                "United States International Relations",
+                "United States Politics and Government",
+                "War Powers Act (1973)",
+                "War and Emergency Powers (US)"
+            ],
+            "org_facet": [
+                "Navy Seals",
+                "Central Intelligence Agency",
+                "Senate"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "North Korea"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-notify-3-jmcz/dc-notify-3-jmcz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump with Kim Jong-un, the North Korean leader, in 2019.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-notify-3-jmcz/dc-notify-3-jmcz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump with Kim Jong-un, the North Korean leader, in 2019.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-notify-3-jmcz/dc-notify-3-jmcz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump with Kim Jong-un, the North Korean leader, in 2019.",
+                    "copyright": "Erin Schaff/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "How Trump’s Blunt-Force Diplomacy Is Pushing His Rivals Together",
+            "abstract": "Some of President Trump’s pressure tactics appear to have backfired, sending would-be allies into the embrace of China.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-diplomacy-rivals.html",
+            "uri": "nyt://article/105449a4-8c7a-5d8c-afda-f7a32975721c",
+            "byline": "By Luke Broadwater and David E. Sanger",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T15:57:19-04:00",
+            "created_date": "2025-09-05T18:38:54-04:00",
+            "published_date": "2025-09-05T18:38:54-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "United States International Relations",
+                "International Trade and World Market",
+                "Customs (Tariff)",
+                "live-detached"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Xi Jinping",
+                "Putin, Vladimir V",
+                "Modi, Narendra",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "China",
+                "Russia",
+                "India"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-prexy-hgzc/05dc-prexy-hgzc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Looks like we’ve lost India and Russia to deepest, darkest, China,” Mr. Trump wrote on Truth Social on Friday morning, as he posted a photo of the three nations’ leaders meeting in China.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-prexy-hgzc/05dc-prexy-hgzc-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Looks like we’ve lost India and Russia to deepest, darkest, China,” Mr. Trump wrote on Truth Social on Friday morning, as he posted a photo of the three nations’ leaders meeting in China.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-prexy-hgzc/05dc-prexy-hgzc-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“Looks like we’ve lost India and Russia to deepest, darkest, China,” Mr. Trump wrote on Truth Social on Friday morning, as he posted a photo of the three nations’ leaders meeting in China.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "New Summer Camp Safety Laws Follow Texas’ Tragic Floods",
+            "abstract": "The families of “Heaven’s 27,” the children and counselors lost at Camp Mystic, pressed the Legislature to toughen flood rules over the objections of some Hill Country camp operators.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/texas-summer-camp-safety-rules.html",
+            "uri": "nyt://article/b99675a4-5552-5af7-96b7-313d1fd9ac6b",
+            "byline": "By Ruth Graham",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T20:03:57-04:00",
+            "created_date": "2025-09-05T18:26:35-04:00",
+            "published_date": "2025-09-05T18:26:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Summer Camps",
+                "Central Texas Floods (July 2025)",
+                "Law and Legislation",
+                "Camps and Camping",
+                "Deaths (Fatalities)",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Camp Mystic (Hunt, Tex)"
+            ],
+            "per_facet": [
+                "Abbott, Gregory W (1957- )"
+            ],
+            "geo_facet": [
+                "Texas"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05nat-texas-flood-01-qlfh/05nat-texas-flood-01-qlfh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gov. Greg Abbott discussing the new law, which includes a requirement for youth camps to move existing cabins away from dangerous floodplains.",
+                    "copyright": "Carter Johnston for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05nat-texas-flood-01-qlfh/05nat-texas-flood-01-qlfh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gov. Greg Abbott discussing the new law, which includes a requirement for youth camps to move existing cabins away from dangerous floodplains.",
+                    "copyright": "Carter Johnston for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05nat-texas-flood-01-qlfh/05nat-texas-flood-01-qlfh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Gov. Greg Abbott discussing the new law, which includes a requirement for youth camps to move existing cabins away from dangerous floodplains.",
+                    "copyright": "Carter Johnston for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Trump Will Host G20 Summit in 2026 at His Doral Resort",
+            "abstract": "President Trump faced withering bipartisan criticism in his first term for a similar idea that would have mixed foreign diplomacy with his personal business interests.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-g20-summit-miami.html",
+            "uri": "nyt://article/94ddfb77-149e-5fab-a46a-bdbfae0cd23a",
+            "byline": "By Erica L. Green and Chris Cameron",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T20:00:57-04:00",
+            "created_date": "2025-09-05T17:32:51-04:00",
+            "published_date": "2025-09-05T17:32:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Group of Twenty",
+                "Trump National Doral Miami (Doral, Fla)"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Doral (Fla)",
+                "Miami (Fla)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05trump-news-g20-doral1-ftkb/05trump-news-g20-doral1-ftkb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump National Doral in Doral, Fla.",
+                    "copyright": "Scott McIntyre for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05trump-news-g20-doral1-ftkb/05trump-news-g20-doral1-ftkb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump National Doral in Doral, Fla.",
+                    "copyright": "Scott McIntyre for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05trump-news-g20-doral1-ftkb/05trump-news-g20-doral1-ftkb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump National Doral in Doral, Fla.",
+                    "copyright": "Scott McIntyre for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "As Powerball Nears Record, Ticket Buyers Dream of New Houses and Winning in Secret",
+            "abstract": "The Powerball jackpot hit $1.8 billion ahead of Saturday’s drawing, making it the second-largest and inspiring many to play.",
+            "url": "https://www.nytimes.com/2025/09/05/us/powerball-lottery-winners.html",
+            "uri": "nyt://article/31214768-5360-5977-be8c-e722f87dd776",
+            "byline": "By Hannah Ziegler, Davaughnia Wilson and Sopan Deb",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T18:58:01-04:00",
+            "created_date": "2025-09-05T17:01:13-04:00",
+            "published_date": "2025-09-05T17:01:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Lotteries",
+                "Gambling",
+                "Personal Finances"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City",
+                "Astoria (Queens, NY)",
+                "Brooklyn (NYC)",
+                "New Jersey",
+                "Vauxhall (NJ)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-lottovoices-vlkt/05xp-lottovoices-vlkt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If no one matches all six numbers of the Powerball drawing on Saturday, the jackpot could become the largest in history.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-lottovoices-vlkt/05xp-lottovoices-vlkt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If no one matches all six numbers of the Powerball drawing on Saturday, the jackpot could become the largest in history.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-lottovoices-vlkt/05xp-lottovoices-vlkt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If no one matches all six numbers of the Powerball drawing on Saturday, the jackpot could become the largest in history.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "What to Know About a Rapid U.S. Military Buildup in the Caribbean",
+            "abstract": "The United States has deployed eight warships, several surveillance planes and one attack submarine to the region as tensions with Venezuela grow.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-maduro-military-venezuela.html",
+            "uri": "nyt://article/e1607788-2da0-506f-a989-50acfc45969d",
+            "byline": "By Eric Schmitt",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:57:19-04:00",
+            "created_date": "2025-09-05T16:22:05-04:00",
+            "published_date": "2025-09-05T16:22:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drug Abuse and Traffic",
+                "United States Defense and Military Forces",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "United States Navy"
+            ],
+            "per_facet": [
+                "Maduro, Nicolas",
+                "Rubio, Marco",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Venezuela",
+                "Caribbean Area"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-military-ktcb/05dc-military-ktcb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Navy warship U.S.S. Sampson docked at the Amador International Cruise Terminal in Panama City last month.",
+                    "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-military-ktcb/05dc-military-ktcb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Navy warship U.S.S. Sampson docked at the Amador International Cruise Terminal in Panama City last month.",
+                    "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-military-ktcb/05dc-military-ktcb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Navy warship U.S.S. Sampson docked at the Amador International Cruise Terminal in Panama City last month.",
+                    "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Second Weak Jobs Report Undercuts Trump’s Claims of a Booming Economy",
+            "abstract": "After a bad employment report in August, President Trump fired the official in charge of the numbers. This month’s data was just as disappointing.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-jobs-report-tariffs-deportations.html",
+            "uri": "nyt://article/7bc32e8a-0588-5c39-9c78-ed53d7e5bc16",
+            "byline": "By Tony Romm and Ben Casselman",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:41:50-04:00",
+            "created_date": "2025-09-05T15:56:52-04:00",
+            "published_date": "2025-09-05T15:56:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Economy",
+                "United States Politics and Government",
+                "Labor and Jobs",
+                "Layoffs and Job Reductions",
+                "Customs (Tariff)",
+                "Prices (Fares, Fees and Rates)",
+                "Inflation (Economics)"
+            ],
+            "org_facet": [
+                "Bureau of Labor Statistics",
+                "National Economic Council (US)"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Hassett, Kevin A"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-trump-econ-01-jgcz/05dc-trump-econ-01-jgcz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The economy added only 22,000 jobs in August. President Trump’s high tariffs and mass deportations appear to have created noticeable pressure on employers.",
+                    "copyright": "Scott McIntyre for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-trump-econ-01-jgcz/05dc-trump-econ-01-jgcz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The economy added only 22,000 jobs in August. President Trump’s high tariffs and mass deportations appear to have created noticeable pressure on employers.",
+                    "copyright": "Scott McIntyre for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-trump-econ-01-jgcz/05dc-trump-econ-01-jgcz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The economy added only 22,000 jobs in August. President Trump’s high tariffs and mass deportations appear to have created noticeable pressure on employers.",
+                    "copyright": "Scott McIntyre for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Leaders of African Separatist Movement Indicted in Minnesota",
+            "abstract": "Insurgents seeking to form a new nation for English speakers in Cameroon were led by men living in Minnesota, federal prosecutors said on Friday.",
+            "url": "https://www.nytimes.com/2025/09/05/us/african-separatists-indicted-minnesota-ambazonia-cameroon.html",
+            "uri": "nyt://article/32bd845e-48a7-508f-967b-57b943e6025d",
+            "byline": "By Ernesto Londoño",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T15:52:48-04:00",
+            "created_date": "2025-09-05T15:52:48-04:00",
+            "published_date": "2025-09-05T15:52:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Secession and Independence Movements"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Africa",
+                "Cameroon",
+                "Minnesota"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/nat-minnesota-cameroon-1-wvhk/nat-minnesota-cameroon-1-wvhk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joseph H. Thompson, the acting U.S. attorney in Minnesota, at a news conference late last month. “Minnesota is not a launchpad for overseas violence,” he said in a statement on Friday about the indictment. ",
+                    "copyright": "Tim Evans/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/nat-minnesota-cameroon-1-wvhk/nat-minnesota-cameroon-1-wvhk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joseph H. Thompson, the acting U.S. attorney in Minnesota, at a news conference late last month. “Minnesota is not a launchpad for overseas violence,” he said in a statement on Friday about the indictment. ",
+                    "copyright": "Tim Evans/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/nat-minnesota-cameroon-1-wvhk/nat-minnesota-cameroon-1-wvhk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joseph H. Thompson, the acting U.S. attorney in Minnesota, at a news conference late last month. “Minnesota is not a launchpad for overseas violence,” he said in a statement on Friday about the indictment. ",
+                    "copyright": "Tim Evans/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "U.S. Is Increasingly Exposed to Chinese Election Threats, Lawmakers Say",
+            "abstract": "Two Democrats on the House China committee noted the use of A.I. by Chinese companies as a weapon in information warfare.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/us-elections-china-threats.html",
+            "uri": "nyt://article/71b865a0-ec7e-559b-b001-ba109721dce6",
+            "byline": "By Julian E. Barnes",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T12:05:04-04:00",
+            "created_date": "2025-09-05T15:44:35-04:00",
+            "published_date": "2025-09-05T15:44:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Artificial Intelligence",
+                "Espionage and Intelligence Services",
+                "Computer Security",
+                "United States International Relations",
+                "United States Politics and Government",
+                "Elections",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [
+                "GoLaxy",
+                "Communist Party of China",
+                "Democratic Party",
+                "House of Representatives",
+                "Office of the Director of National Intelligence"
+            ],
+            "per_facet": [
+                "Krishnamoorthi, Raja",
+                "Carson, Andre D (1974- )",
+                "Gabbard, Tulsi (1981- )"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-golaxy-bvwg/05dc-golaxy-bvwg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democrats on the House China committee said the office of Tulsi Gabbard, the director of national intelligence, was “stripping away the guardrails that protect our nation from foreign influence.”",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-golaxy-bvwg/05dc-golaxy-bvwg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democrats on the House China committee said the office of Tulsi Gabbard, the director of national intelligence, was “stripping away the guardrails that protect our nation from foreign influence.”",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-golaxy-bvwg/05dc-golaxy-bvwg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democrats on the House China committee said the office of Tulsi Gabbard, the director of national intelligence, was “stripping away the guardrails that protect our nation from foreign influence.”",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Chicago Braces for Trump’s Immigration Crackdown",
+            "abstract": "Protesters held demonstrations and city leaders spoke against the prospect of a surge of federal agents.",
+            "url": "https://www.nytimes.com/2025/09/05/us/trump-immigration-chicago.html",
+            "uri": "nyt://article/3a60f65c-26ef-5856-9e22-6ec7f8a16e24",
+            "byline": "By Julie Bosman, Jazmine Ulloa and Hamed Aleaziz",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T14:02:19-04:00",
+            "created_date": "2025-09-05T14:52:16-04:00",
+            "published_date": "2025-09-05T14:52:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "live-detached",
+                "Demonstrations, Protests and Riots",
+                "Illegal Immigration",
+                "Deportation",
+                "Hispanic-Americans",
+                "Federal-State Relations (US)",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Immigration and Customs Enforcement (US)",
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Pritzker, J B",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Chicago (Ill)",
+                "Illinois"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/NAT-CHICAGO-BRACING-1-qpzw/NAT-CHICAGO-BRACING-1-qpzw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police encountered demonstrators trying to block government vehicles from leaving an ICE facility in Broadview, Ill., outside Chicago, on Friday.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/NAT-CHICAGO-BRACING-1-qpzw/NAT-CHICAGO-BRACING-1-qpzw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police encountered demonstrators trying to block government vehicles from leaving an ICE facility in Broadview, Ill., outside Chicago, on Friday.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/NAT-CHICAGO-BRACING-1-qpzw/NAT-CHICAGO-BRACING-1-qpzw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police encountered demonstrators trying to block government vehicles from leaving an ICE facility in Broadview, Ill., outside Chicago, on Friday.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}

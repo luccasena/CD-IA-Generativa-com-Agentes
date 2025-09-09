@@ -1,0 +1,2155 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2025-09-06T19:50:36-04:00",
+    "num_results": 34,
+    "results": [
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Thrust Into the Line of Fire, Iranians Worry About What Comes Next",
+            "abstract": "A 12-day war in June upended the shadow war rivalry between Israel and Iran. Some Iranians want to strike back, others want to move on.",
+            "url": "https://www.nytimes.com/2025/09/06/world/africa/thrust-into-the-line-of-fire-iranians-worry-about-what-comes-next.html",
+            "uri": "nyt://article/3916c418-eade-5976-abc3-48b179b5a429",
+            "byline": "By Declan Walsh and Nanna Heitmann",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:56:57-04:00",
+            "created_date": "2025-09-06T00:01:24-04:00",
+            "published_date": "2025-09-06T00:01:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Iran-Israel War (2025- )",
+                "Civilian Casualties",
+                "Embargoes and Sanctions",
+                "Deaths (Fatalities)",
+                "Politics and Government",
+                "Iran-Israel Proxy Conflict"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Iran"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/xxint-iran-01-hfgz/xxint-iran-01-hfgz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over 12 days of war in June, more than 1,000 Iranians were killed in Israeli attacks. Most were civilians.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/xxint-iran-01-hfgz/xxint-iran-01-hfgz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over 12 days of war in June, more than 1,000 Iranians were killed in Israeli attacks. Most were civilians.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/xxint-iran-01-hfgz/xxint-iran-01-hfgz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over 12 days of war in June, more than 1,000 Iranians were killed in Israeli attacks. Most were civilians.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Authorities Point to Cable Disconnecting in First Report on Lisbon Funicular Crash",
+            "abstract": "Portuguese authorities released a highly anticipated preliminary report into the disaster, which killed 16 people this week.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/portugal-funicular-crash-preliminary-report-cable.html",
+            "uri": "nyt://article/c52c740e-b7f3-5f8a-bc11-3e6040e1d105",
+            "byline": "By Amelia Nierenberg, Tiago Carrasco and Pranav Baskar",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:20:46-04:00",
+            "created_date": "2025-09-06T16:53:34-04:00",
+            "published_date": "2025-09-06T16:53:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Workplace Hazards and Violations",
+                "Deaths (Fatalities)",
+                "Cable Cars and Trams",
+                "Railroad Accidents and Safety"
+            ],
+            "org_facet": [
+                "College of Charleston"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Lisbon (Portugal)",
+                "Portugal"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-portugal-victims-01-mflc/06int-portugal-victims-01-mflc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tributes to victims of the funicular accident in Lisbon, on Friday.",
+                    "copyright": "Patricia De Melo Moreira/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-portugal-victims-01-mflc/06int-portugal-victims-01-mflc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tributes to victims of the funicular accident in Lisbon, on Friday.",
+                    "copyright": "Patricia De Melo Moreira/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-portugal-victims-01-mflc/06int-portugal-victims-01-mflc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tributes to victims of the funicular accident in Lisbon, on Friday.",
+                    "copyright": "Patricia De Melo Moreira/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Cardiologist Draws Outcry With Claim Tying Vaccines to Royals’ Cancer",
+            "abstract": "The British government condemned the remarks, made without evidence by the cardiologist, Dr. Aseem Malhotra, at an event for the anti-immigration party led by Nigel Farage.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/britain-vaccines-royal-family.html",
+            "uri": "nyt://article/9fdfb759-ac57-5c88-aac8-011a3d54c565",
+            "byline": "By Stephen Castle",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:49:20-04:00",
+            "created_date": "2025-09-06T18:49:20-04:00",
+            "published_date": "2025-09-06T18:49:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Politics and Government",
+                "Royal Families",
+                "Cancer"
+            ],
+            "org_facet": [
+                "Buckingham Palace",
+                "Reform UK (British Political Party)"
+            ],
+            "per_facet": [
+                "Farage, Nigel (1964- )",
+                "Kennedy, Robert F Jr"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-vaccine-twvh/06int-uk-vaccine-twvh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Aseem Malhotra at the Reform U.K. party conference at the NEC Birmingham, England, on Saturday.",
+                    "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-vaccine-twvh/06int-uk-vaccine-twvh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Aseem Malhotra at the Reform U.K. party conference at the NEC Birmingham, England, on Saturday.",
+                    "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-vaccine-twvh/06int-uk-vaccine-twvh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. Aseem Malhotra at the Reform U.K. party conference at the NEC Birmingham, England, on Saturday.",
+                    "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "Air Canada Flight Attendants Overwhelmingly Reject Proposed Contract",
+            "abstract": "But the vote will not lead to a repeat of the walkout that snarled air travel in Canada last month.",
+            "url": "https://www.nytimes.com/2025/09/06/world/canada/air-canada-union-strike-contract.html",
+            "uri": "nyt://article/8d0f7d08-4678-586b-bf2b-fb46a6143315",
+            "byline": "By Ian Austen",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:35:02-04:00",
+            "created_date": "2025-09-06T17:22:26-04:00",
+            "published_date": "2025-09-06T17:22:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Airlines and Airplanes",
+                "Strikes",
+                "Arbitration, Conciliation and Mediation",
+                "Flight Attendants",
+                "Labor and Jobs"
+            ],
+            "org_facet": [
+                "Air Canada",
+                "Canadian Union of Public Employees"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Canada"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06canada-airline-pbfl/06canada-airline-pbfl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Air Canada flight attendant walks through the terminal at Pierre-Elliott Trudeau Airport in Montreal last month.",
+                    "copyright": "Andrej Ivanov/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06canada-airline-pbfl/06canada-airline-pbfl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Air Canada flight attendant walks through the terminal at Pierre-Elliott Trudeau Airport in Montreal last month.",
+                    "copyright": "Andrej Ivanov/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06canada-airline-pbfl/06canada-airline-pbfl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Air Canada flight attendant walks through the terminal at Pierre-Elliott Trudeau Airport in Montreal last month.",
+                    "copyright": "Andrej Ivanov/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "A World War II Dispute Between Ukraine and Poland Is Put to Rest",
+            "abstract": "The remains of people killed and left in mass graves in the waning days of the war are being given dignified burials.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/ukraine-poland-reburial-worldwar.html",
+            "uri": "nyt://article/413558ef-4d26-5cc5-8f6d-65e69e8fe239",
+            "byline": "By Andrew E. Kramer and Yurii Shyvala",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:40:13-04:00",
+            "created_date": "2025-09-06T14:00:39-04:00",
+            "published_date": "2025-09-06T14:00:39-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Foreign Aid",
+                "World War II (1939-45)",
+                "Defense and Military Forces",
+                "Politics and Government",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Poland",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-ukraine-poland-reburial-01-gqzk/06int-ukraine-poland-reburial-01-gqzk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A priest conducting a mass burial ceremony of people killed during World War II in the now-abandoned, formerly ethnic Polish village of Puzhnyky, Ukraine, on Saturday.",
+                    "copyright": "Anastasiia Smolienko/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-ukraine-poland-reburial-01-gqzk/06int-ukraine-poland-reburial-01-gqzk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A priest conducting a mass burial ceremony of people killed during World War II in the now-abandoned, formerly ethnic Polish village of Puzhnyky, Ukraine, on Saturday.",
+                    "copyright": "Anastasiia Smolienko/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-ukraine-poland-reburial-01-gqzk/06int-ukraine-poland-reburial-01-gqzk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A priest conducting a mass burial ceremony of people killed during World War II in the now-abandoned, formerly ethnic Polish village of Puzhnyky, Ukraine, on Saturday.",
+                    "copyright": "Anastasiia Smolienko/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "The Heat Is Punishing. So Is Being Told You Can’t Work in It.",
+            "abstract": "Delivery riders are already some of the most vulnerable workers of booming gig economies. During successive heat waves this summer in Italy, it got complicated.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/italy-food-delivery-drivers-heat-rules.html",
+            "uri": "nyt://article/f027a593-7a9c-5df0-88c3-8f7a6d26f3c3",
+            "byline": "By Emma Bubola, Monika Cvorak and Enrico Parenti",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:09:51-04:00",
+            "created_date": "2025-09-06T00:01:33-04:00",
+            "published_date": "2025-09-06T00:01:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Freelancing, Self-Employment and Independent Contracting",
+                "Heat and Heat Waves",
+                "Delivery Services"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Europe",
+                "Italy",
+                "Palermo (Italy)",
+                "Rome (Italy)",
+                "Sicily (Italy)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/27/arts/First-frame-Rome-delivery-driver-Colloseum/First-frame-Rome-delivery-driver-Colloseum-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1080,
+                    "width": 1620,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A delivery driver drives in front of the Colloseum in Rome",
+                    "copyright": "Enrico Parenti for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/27/arts/First-frame-Rome-delivery-driver-Colloseum/First-frame-Rome-delivery-driver-Colloseum-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A delivery driver drives in front of the Colloseum in Rome",
+                    "copyright": "Enrico Parenti for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/27/arts/First-frame-Rome-delivery-driver-Colloseum/First-frame-Rome-delivery-driver-Colloseum-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A delivery driver drives in front of the Colloseum in Rome",
+                    "copyright": "Enrico Parenti for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israel Targets More Buildings in Gaza City and Warns Residents to Flee",
+            "abstract": "The Israeli military issued evacuation orders for residents in the high-rise towers and urged Palestinians to move to the south of Gaza, as it intensifies its offensive on the city.",
+            "url": "https://www.nytimes.com/2025/09/06/world/middleeast/israel-gaza-humanitarian.html",
+            "uri": "nyt://article/00061e76-63c8-5032-9d45-8273244e5a55",
+            "byline": "By Liam Stack",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:23:56-04:00",
+            "created_date": "2025-09-06T07:27:15-04:00",
+            "published_date": "2025-09-06T07:27:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "War and Armed Conflicts",
+                "Palestinians"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip",
+                "Khan Younis (Gaza Strip)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06israel-gaza-01-wgzl/06israel-gaza-01-wgzl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians fleeing Gaza City after the Israeli military intensified its attacks on the area this week. ",
+                    "copyright": "Saher Alghorra for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06israel-gaza-01-wgzl/06israel-gaza-01-wgzl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians fleeing Gaza City after the Israeli military intensified its attacks on the area this week. ",
+                    "copyright": "Saher Alghorra for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06israel-gaza-01-wgzl/06israel-gaza-01-wgzl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians fleeing Gaza City after the Israeli military intensified its attacks on the area this week. ",
+                    "copyright": "Saher Alghorra for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "L.G.B.T.Q. Catholics Have Jubilee With Pope’s Blessing, if Not His Presence",
+            "abstract": "Leo XIV did not meet with pilgrims, but he has indicated that he is supportive of an open, welcoming church.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/lgbtq-catholics-jubilee-pope-leo.html",
+            "uri": "nyt://article/c8766ae2-2ff5-5d25-829f-a5d868b01ddb",
+            "byline": "By Elisabetta Povoledo",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:56:43-04:00",
+            "created_date": "2025-09-06T13:53:25-04:00",
+            "published_date": "2025-09-06T13:53:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Pilgrimages",
+                "Popes",
+                "Homosexuality and Bisexuality",
+                "Christians and Christianity"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [
+                "Leo XIV",
+                "Martin, James A",
+                "Francis"
+            ],
+            "geo_facet": [
+                "Rome (Italy)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-vatican-lgbtq-jubilee-qwkg/06int-vatican-lgbtq-jubilee-qwkg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "L.G.B.T.Q. Catholics passed through the Holy Door of St. Peter’s Basilica on Saturday as part of the Roman Catholic Church’s Year of Jubilee.",
+                    "copyright": "Guglielmo Mangiapane/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-vatican-lgbtq-jubilee-qwkg/06int-vatican-lgbtq-jubilee-qwkg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "L.G.B.T.Q. Catholics passed through the Holy Door of St. Peter’s Basilica on Saturday as part of the Roman Catholic Church’s Year of Jubilee.",
+                    "copyright": "Guglielmo Mangiapane/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-vatican-lgbtq-jubilee-qwkg/06int-vatican-lgbtq-jubilee-qwkg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "L.G.B.T.Q. Catholics passed through the Holy Door of St. Peter’s Basilica on Saturday as part of the Roman Catholic Church’s Year of Jubilee.",
+                    "copyright": "Guglielmo Mangiapane/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "In India’s Rebound From Trump Blows, Modi Has No Easy Choices",
+            "abstract": "The unraveling of relations between the United States and India has convinced many Indian officials that the country should return to its difficult balancing act of nonalignment.",
+            "url": "https://www.nytimes.com/2025/09/06/world/asia/india-modi-trump-united-states-relations.html",
+            "uri": "nyt://article/bfacfdd0-98e8-5664-a11c-6dda1f22588f",
+            "byline": "By Mujib Mashal",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T12:50:53-04:00",
+            "created_date": "2025-09-06T12:35:34-04:00",
+            "published_date": "2025-09-06T12:35:34-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "United States International Relations",
+                "Indian-Americans"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Modi, Narendra",
+                "Trump, Donald J",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China",
+                "India",
+                "United States",
+                "Delhi (India)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-india-modi-choices-promo-vzwm/06int-india-modi-choices-promo-vzwm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-india-modi-choices-promo-vzwm/06int-india-modi-choices-promo-vzwm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-india-modi-choices-promo-vzwm/06int-india-modi-choices-promo-vzwm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eric Lee/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "At Least 425 Pro-Palestinian Protesters Arrested in London on Terrorism Charges",
+            "abstract": "The demonstrators oppose the British government’s decision to designate Palestine Action as a terrorist organization.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/palestine-action-arrests-britain.html",
+            "uri": "nyt://article/ae105080-63d3-5f2b-b278-029d8e150364",
+            "byline": "By Lizzie Dearden",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:03:44-04:00",
+            "created_date": "2025-09-06T13:39:54-04:00",
+            "published_date": "2025-09-06T13:39:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Terrorism",
+                "Demonstrations, Protests and Riots",
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Freedom of Speech and Expression"
+            ],
+            "org_facet": [
+                "Palestine Action"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "England",
+                "Gaza Strip",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-palestine-action-01-pbgv/06int-uk-palestine-action-01-pbgv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers detain a demonstrator at the “Lift The Ban” rally at Parliament Square in London, on Saturday.",
+                    "copyright": "Carlos Jasso/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-palestine-action-01-pbgv/06int-uk-palestine-action-01-pbgv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers detain a demonstrator at the “Lift The Ban” rally at Parliament Square in London, on Saturday.",
+                    "copyright": "Carlos Jasso/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-palestine-action-01-pbgv/06int-uk-palestine-action-01-pbgv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers detain a demonstrator at the “Lift The Ban” rally at Parliament Square in London, on Saturday.",
+                    "copyright": "Carlos Jasso/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "A Mysterious First Sister, Heard on Leaked Audio, Captivates Argentina",
+            "abstract": "Karina Milei has become a lightning rod for corruption accusations even as her power and the loyalty of her brother, President Javier Milei, remain unwavering.",
+            "url": "https://www.nytimes.com/2025/09/06/world/americas/javier-milei-karina-argentina-leaked-audio.html",
+            "uri": "nyt://article/d4ea6261-bae4-5833-804f-0edb049dfa7e",
+            "byline": "By Emma Bubola and Lucía Cholakian Herrera",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T05:00:35-04:00",
+            "created_date": "2025-09-06T05:00:35-04:00",
+            "published_date": "2025-09-06T05:00:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Bribery and Kickbacks",
+                "Occult Sciences",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Milei, Javier"
+            ],
+            "geo_facet": [
+                "Argentina"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-argentina-karina-milei-01-cwbf/06int-argentina-karina-milei-01-cwbf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karina Milei, the sister of Argentina’s president, Javier Milei, is considered perhaps the second most powerful person in the country and helped catapult him to office. ",
+                    "copyright": "Cesar Olmedo/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-argentina-karina-milei-01-cwbf/06int-argentina-karina-milei-01-cwbf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karina Milei, the sister of Argentina’s president, Javier Milei, is considered perhaps the second most powerful person in the country and helped catapult him to office. ",
+                    "copyright": "Cesar Olmedo/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-argentina-karina-milei-01-cwbf/06int-argentina-karina-milei-01-cwbf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karina Milei, the sister of Argentina’s president, Javier Milei, is considered perhaps the second most powerful person in the country and helped catapult him to office. ",
+                    "copyright": "Cesar Olmedo/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Immigration Raid on Hyundai-LG Plant in Georgia Rattles South Korea",
+            "abstract": "The country said it had sent diplomats to the site, and South Korea’s foreign minister said he might travel to Washington himself to address the matter.",
+            "url": "https://www.nytimes.com/2025/09/06/world/asia/immigration-raid-hyundai-lg-south-korea-georgia.html",
+            "uri": "nyt://article/93d99bd6-67a0-571f-b28a-ab9631b09ec2",
+            "byline": "By Choe Sang-Hun",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T20:03:17-04:00",
+            "created_date": "2025-09-06T05:32:35-04:00",
+            "published_date": "2025-09-06T05:32:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Trade and World Market",
+                "Illegal Immigration",
+                "Foreign Workers",
+                "United States International Relations",
+                "Foreign Investments",
+                "Factories and Manufacturing",
+                "Labor and Jobs",
+                "Electric and Hybrid Vehicles",
+                "Visas"
+            ],
+            "org_facet": [
+                "Hyundai Motor Co",
+                "LG Energy Solution"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Lee Jae-myung"
+            ],
+            "geo_facet": [
+                "Seoul (South Korea)",
+                "Georgia",
+                "South Korea",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/06int-skorea-raid-reax-qzkt/06int-skorea-raid-reax-qzkt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Hyundai plant in Ellabell, Ga., in March. On Thursday, U.S. law enforcement officers arrested hundreds of South Korean nationals at a neighboring construction site owned by Hyundai and LG.",
+                    "copyright": "Mike Stewart/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/06int-skorea-raid-reax-qzkt/06int-skorea-raid-reax-qzkt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Hyundai plant in Ellabell, Ga., in March. On Thursday, U.S. law enforcement officers arrested hundreds of South Korean nationals at a neighboring construction site owned by Hyundai and LG.",
+                    "copyright": "Mike Stewart/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/06int-skorea-raid-reax-qzkt/06int-skorea-raid-reax-qzkt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Hyundai plant in Ellabell, Ga., in March. On Thursday, U.S. law enforcement officers arrested hundreds of South Korean nationals at a neighboring construction site owned by Hyundai and LG.",
+                    "copyright": "Mike Stewart/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "A Miserable Moment for U.K.’s Starmer: An Ally Resigns and Farage Gloats",
+            "abstract": "The resignation on Friday of Angela Rayner, Britain’s deputy prime minister, was the latest setback for Prime Minister Keir Starmer as he battles the rise of the right-wing populist Nigel Farage.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/uk-starmer-farage.html",
+            "uri": "nyt://article/f87343af-5e5c-5285-99ad-5395ffdc3a78",
+            "byline": "By Mark Landler",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T05:02:26-04:00",
+            "created_date": "2025-09-06T05:02:26-04:00",
+            "published_date": "2025-09-06T05:02:26-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "Politics and Government",
+                "Asylum, Right of",
+                "Illegal Immigration",
+                "Foreign Workers",
+                "Polls and Public Opinion",
+                "Immigration and Emigration",
+                "Deportation",
+                "Ethics and Official Misconduct"
+            ],
+            "org_facet": [
+                "Labour Party (Great Britain)",
+                "Reform UK (British Political Party)",
+                "Conservative Party (Great Britain)"
+            ],
+            "per_facet": [
+                "Rayner, Angela (1980- )",
+                "Farage, Nigel (1964- )",
+                "Starmer, Keir"
+            ],
+            "geo_facet": [
+                "Europe",
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-reform-labour-swap-bptf/06int-uk-reform-labour-swap-bptf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Angela Rayner in March at 10 Downing Street in London. Her resignation as Britain’s deputy prime minister came after two weeks of questions about her tax problems.",
+                    "copyright": "Sodiq Adelakun/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-reform-labour-swap-bptf/06int-uk-reform-labour-swap-bptf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Angela Rayner in March at 10 Downing Street in London. Her resignation as Britain’s deputy prime minister came after two weeks of questions about her tax problems.",
+                    "copyright": "Sodiq Adelakun/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-reform-labour-swap-bptf/06int-uk-reform-labour-swap-bptf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Angela Rayner in March at 10 Downing Street in London. Her resignation as Britain’s deputy prime minister came after two weeks of questions about her tax problems.",
+                    "copyright": "Sodiq Adelakun/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "australia",
+            "title": "With ‘Ghost Bat’ Drone, Australia Gears Up for New Arms Race",
+            "abstract": "A new class of aircraft developed with Boeing, it will be the first military plane designed and manufactured in the country in half a century.",
+            "url": "https://www.nytimes.com/2025/09/06/world/australia/australia-ghost-bat-drone.html",
+            "uri": "nyt://article/7eaa3e89-e077-5022-aa69-abb67b446ef5",
+            "byline": "By Victoria Kim",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T00:09:04-04:00",
+            "created_date": "2025-09-06T00:09:04-04:00",
+            "published_date": "2025-09-06T00:09:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drones (Pilotless Planes)",
+                "Military Aircraft",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Boeing Company"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Australia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/world/06int-oz-ghostbat-01/06int-oz-ghostbat-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photo provided by the Australian Defense Force of an MQ-28A Ghost Bat in Woomera, South Australia, on Friday.",
+                    "copyright": "Australian Defence Force"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/world/06int-oz-ghostbat-01/06int-oz-ghostbat-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photo provided by the Australian Defense Force of an MQ-28A Ghost Bat in Woomera, South Australia, on Friday.",
+                    "copyright": "Australian Defence Force"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/world/06int-oz-ghostbat-01/06int-oz-ghostbat-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A photo provided by the Australian Defense Force of an MQ-28A Ghost Bat in Woomera, South Australia, on Friday.",
+                    "copyright": "Australian Defence Force"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Norway’s Navy Gets a Big Boost With U.K. Ship Deal",
+            "abstract": "A plan to buy warships shows how Europe is bolstering defenses amid worries about Russian aggression and President Trump’s isolationist policies, analysts say.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/noway-uk-ship-deal.html",
+            "uri": "nyt://article/2e1447ea-6c05-56e8-b65c-d4322ea0f991",
+            "byline": "By Jeffrey Gettleman and Louise Krüger",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T12:34:26-04:00",
+            "created_date": "2025-09-06T09:54:02-04:00",
+            "published_date": "2025-09-06T09:54:02-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Defense and Military Forces",
+                "Ships and Shipping",
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": [
+                "North Atlantic Treaty Organization"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Norway",
+                "Great Britain",
+                "Russia",
+                "Arctic Regions"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-norway-navy-01-gchp/06int-norway-navy-01-gchp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A frigate under construction in Glasgow, Scotland, on Thursday. Norway has signed a $13.5 billion deal to buy at least five such warships from British shipbuilders.",
+                    "copyright": "Pool photo by Andy Buchanan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-norway-navy-01-gchp/06int-norway-navy-01-gchp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A frigate under construction in Glasgow, Scotland, on Thursday. Norway has signed a $13.5 billion deal to buy at least five such warships from British shipbuilders.",
+                    "copyright": "Pool photo by Andy Buchanan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-norway-navy-01-gchp/06int-norway-navy-01-gchp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A frigate under construction in Glasgow, Scotland, on Thursday. Norway has signed a $13.5 billion deal to buy at least five such warships from British shipbuilders.",
+                    "copyright": "Pool photo by Andy Buchanan"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Offer Accepted",
+            "abstract": "We spend a lot of time thinking of reasons we shouldn’t do things. What if we decided to default to yes?",
+            "url": "https://www.nytimes.com/2025/09/06/briefing/offer-accepted.html",
+            "uri": "nyt://article/8935a7a1-0b27-577f-8f61-c40dd01f32ed",
+            "byline": "By Melissa Kirsch",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T06:02:51-04:00",
+            "created_date": "2025-09-06T06:02:51-04:00",
+            "published_date": "2025-09-06T06:02:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no",
+                "Seasons and Months",
+                "Culture (Arts)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/08/multimedia/06themorning-nl/06themorning-nl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2043,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/08/multimedia/06themorning-nl/06themorning-nl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/08/multimedia/06themorning-nl/06themorning-nl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "María Jesús Contreras"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "A Canadian Whisky Brand May Move Bottling to the U.S. A Union Blames Trump.",
+            "abstract": "Diageo plans to close an Ontario factory, eliminating 200 union jobs, to take its Crown Royal bottling closer to American customers.",
+            "url": "https://www.nytimes.com/2025/09/06/world/canada/a-canadian-whisky-brand-may-move-bottling-to-the-us-a-union-blames-trump.html",
+            "uri": "nyt://article/512c52bc-b304-5902-93db-7ce9a54d32b8",
+            "byline": "By Ian Austen",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T06:00:10-04:00",
+            "created_date": "2025-09-06T06:00:10-04:00",
+            "published_date": "2025-09-06T06:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Alcoholic Beverages",
+                "Whiskey"
+            ],
+            "org_facet": [
+                "Diageo PLC"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Canada"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/world/06canadaletter-bottles/06canadaletter-bottles-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If a plan by its maker proceeds, most Crown Royal will no longer be bottled in Canada",
+                    "copyright": "Ian Austen/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/world/06canadaletter-bottles/06canadaletter-bottles-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If a plan by its maker proceeds, most Crown Royal will no longer be bottled in Canada",
+                    "copyright": "Ian Austen/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/world/06canadaletter-bottles/06canadaletter-bottles-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "If a plan by its maker proceeds, most Crown Royal will no longer be bottled in Canada",
+                    "copyright": "Ian Austen/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "australia",
+            "title": "Large Shark Kills Surfer Near Sydney, Police Say",
+            "abstract": "The authorities in Australia closed beaches in the northern Sydney suburbs after the attack.",
+            "url": "https://www.nytimes.com/2025/09/06/world/australia/sydney-australia-shark-attack.html",
+            "uri": "nyt://article/6b150bcf-a0d1-5eff-9b1c-c3845810f1c1",
+            "byline": "By Francesca Regalado",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:21:51-04:00",
+            "created_date": "2025-09-06T01:26:38-04:00",
+            "published_date": "2025-09-06T01:26:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sharks",
+                "Animal Attacks",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Sydney (Australia)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-shark-hkpj/06xp-shark-hkpj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1403,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shark attacks are relatively common in Australia.",
+                    "copyright": "David Gray/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-shark-hkpj/06xp-shark-hkpj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shark attacks are relatively common in Australia.",
+                    "copyright": "David Gray/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-shark-hkpj/06xp-shark-hkpj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shark attacks are relatively common in Australia.",
+                    "copyright": "David Gray/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "A Japanese Island Preserves an Ancient and Ghostly Theater Form",
+            "abstract": "Noh was once the entertainment of medieval warriors. Today, remote Sado Islanders embrace one of the world’s oldest surviving types of drama.",
+            "url": "https://www.nytimes.com/2025/09/06/world/asia/sado-island-japan-noh-theater.html",
+            "uri": "nyt://article/8c316e63-6586-5514-86d2-d4556d6f32e0",
+            "byline": "By Martin Fackler and Ko Sasaki",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T00:01:25-04:00",
+            "created_date": "2025-09-06T00:01:25-04:00",
+            "published_date": "2025-09-06T00:01:25-04:00",
+            "material_type_facet": "",
+            "kicker": "Japan Dispatch",
+            "des_facet": [
+                "Theater",
+                "Shinto",
+                "Music",
+                "Opera",
+                "Masks (Costume)",
+                "Islands",
+                "Ghosts",
+                "Actors and Actresses"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Japan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/14/multimedia/00int-japan-drama-noh-01-khfm/00int-japan-drama-noh-01-khfm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shinobu Kamiyama, center, playing the tormented ghost of a famously beautiful woman in the play “Tamakazura” at Ushio Shrine on Sado Island, Japan. Noh dramas often center on supernatural visitations.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/14/multimedia/00int-japan-drama-noh-01-khfm/00int-japan-drama-noh-01-khfm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shinobu Kamiyama, center, playing the tormented ghost of a famously beautiful woman in the play “Tamakazura” at Ushio Shrine on Sado Island, Japan. Noh dramas often center on supernatural visitations.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/14/multimedia/00int-japan-drama-noh-01-khfm/00int-japan-drama-noh-01-khfm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shinobu Kamiyama, center, playing the tormented ghost of a famously beautiful woman in the play “Tamakazura” at Ushio Shrine on Sado Island, Japan. Noh dramas often center on supernatural visitations.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Energy Secretary Attacks Offshore Wind and Dismisses Climate Change",
+            "abstract": "Chris Wright, who travels to Europe next week to promote American gas, called climate change “not incredibly important.”",
+            "url": "https://www.nytimes.com/2025/09/05/climate/wright-energy-offshore-wind-turbines.html",
+            "uri": "nyt://article/66ed9edc-12b3-5975-b9b4-d9da8427cebf",
+            "byline": "By Lisa Friedman",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T21:01:50-04:00",
+            "created_date": "2025-09-05T21:01:50-04:00",
+            "published_date": "2025-09-05T21:01:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Wind Power",
+                "Alternative and Renewable Energy",
+                "Natural Gas",
+                "Oil (Petroleum) and Gasoline",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Orsted AS"
+            ],
+            "per_facet": [
+                "Wright, Chris (1965- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/27/multimedia/05cli-wright/05cli-wright-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chris Wright, the energy secretary, also said, “We don’t want to be in the race for the most expensive electricity in the world.”",
+                    "copyright": "Anna Moneymaker/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/27/multimedia/05cli-wright/05cli-wright-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chris Wright, the energy secretary, also said, “We don’t want to be in the race for the most expensive electricity in the world.”",
+                    "copyright": "Anna Moneymaker/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/27/multimedia/05cli-wright/05cli-wright-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chris Wright, the energy secretary, also said, “We don’t want to be in the race for the most expensive electricity in the world.”",
+                    "copyright": "Anna Moneymaker/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "With Jair Bolsonaro on Trial, Brazil Braces for U.S. Sanctions",
+            "abstract": "While the Supreme Court weighs the fate of the former president on charges of plotting a coup, Brazil’s government is preparing for more penalties.",
+            "url": "https://www.nytimes.com/2025/09/05/world/americas/bolsonaro-trial-us-brazil-sanctions.html",
+            "uri": "nyt://article/19d3c8b3-5880-5cee-ad5a-4105e21978ad",
+            "byline": "By Ana Ionova and Dado Galdieri",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:45:15-04:00",
+            "created_date": "2025-09-05T19:16:50-04:00",
+            "published_date": "2025-09-05T19:16:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Coups D'Etat and Attempted Coups D'Etat",
+                "United States International Relations",
+                "Embargoes and Sanctions",
+                "Customs (Tariff)"
+            ],
+            "org_facet": [
+                "Supreme Federal Court (Brazil)"
+            ],
+            "per_facet": [
+                "Bolsonaro, Jair (1955- )",
+                "Moraes, Alexandre de (1968- )",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Brazil"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-brazil-sanctions-tqmg-promo/05int-brazil-sanctions-tqmg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officer stand outside Brazil’s Supreme Court in Brasília on Wednesday.",
+                    "copyright": "Dado Galdieri for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-brazil-sanctions-tqmg-promo/05int-brazil-sanctions-tqmg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officer stand outside Brazil’s Supreme Court in Brasília on Wednesday.",
+                    "copyright": "Dado Galdieri for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-brazil-sanctions-tqmg-promo/05int-brazil-sanctions-tqmg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officer stand outside Brazil’s Supreme Court in Brasília on Wednesday.",
+                    "copyright": "Dado Galdieri for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "What to Know About a Rapid U.S. Military Buildup in the Caribbean",
+            "abstract": "The United States has deployed eight warships, several surveillance planes and one attack submarine to the region as tensions with Venezuela grow.",
+            "url": "https://www.nytimes.com/2025/09/05/us/politics/trump-maduro-military-venezuela.html",
+            "uri": "nyt://article/e1607788-2da0-506f-a989-50acfc45969d",
+            "byline": "By Eric Schmitt",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:57:19-04:00",
+            "created_date": "2025-09-05T16:22:05-04:00",
+            "published_date": "2025-09-05T16:22:05-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drug Abuse and Traffic",
+                "United States Defense and Military Forces",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "United States Navy"
+            ],
+            "per_facet": [
+                "Maduro, Nicolas",
+                "Rubio, Marco",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Venezuela",
+                "Caribbean Area"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-military-ktcb/05dc-military-ktcb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Navy warship U.S.S. Sampson docked at the Amador International Cruise Terminal in Panama City last month.",
+                    "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-military-ktcb/05dc-military-ktcb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Navy warship U.S.S. Sampson docked at the Amador International Cruise Terminal in Panama City last month.",
+                    "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05dc-military-ktcb/05dc-military-ktcb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Navy warship U.S.S. Sampson docked at the Amador International Cruise Terminal in Panama City last month.",
+                    "copyright": "Martin Bernetti/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "After a Resignation in London, Farage Seeks to Capitalize on Labour’s Turmoil",
+            "abstract": "Nigel Farage, the leader of the anti-immigration party Reform U.K., spoke to supporters just after news broke that the deputy prime minister had resigned.",
+            "url": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-nigel-farage-reform-uk-labour.html",
+            "uri": "nyt://article/0837d621-47dc-5436-9c04-5fae03e30bc3",
+            "byline": "By Stephen Castle",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:47:38-04:00",
+            "created_date": "2025-09-05T13:49:27-04:00",
+            "published_date": "2025-09-05T13:49:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Immigration and Emigration"
+            ],
+            "org_facet": [
+                "Reform UK (British Political Party)",
+                "Labour Party (Great Britain)",
+                "Conservative Party (Great Britain)"
+            ],
+            "per_facet": [
+                "Farage, Nigel (1964- )",
+                "Rayner, Angela (1980- )",
+                "Starmer, Keir"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-uk-farage-01-jwhk/05int-uk-farage-01-jwhk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nigel Farage, the leader of the right wing populist Reform U.K. party, after delivering his speech at the party’s conference in Birmingham, England on Friday.",
+                    "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-uk-farage-01-jwhk/05int-uk-farage-01-jwhk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nigel Farage, the leader of the right wing populist Reform U.K. party, after delivering his speech at the party’s conference in Birmingham, England on Friday.",
+                    "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-uk-farage-01-jwhk/05int-uk-farage-01-jwhk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nigel Farage, the leader of the right wing populist Reform U.K. party, after delivering his speech at the party’s conference in Birmingham, England on Friday.",
+                    "copyright": "Oli Scarff/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Duchess of Kent Dies at 92; a Royal Who Comforted a Wimbledon Loser",
+            "abstract": "A member of an aristocratic family, she married the Duke of Kent, a cousin of Queen Elizabeth II.",
+            "url": "https://www.nytimes.com/2025/09/05/world/europe/duchess-of-kent-dead.html",
+            "uri": "nyt://article/8207c097-67e9-5246-9706-a2ea02b1cf95",
+            "byline": "By Victor Mather",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T10:27:30-04:00",
+            "created_date": "2025-09-05T12:34:47-04:00",
+            "published_date": "2025-09-05T12:34:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Royal Families",
+                "Wimbledon Tennis Tournament"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Katharine, Duchess of Kent (1933-2025)",
+                "Novotna, Jana"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/05xp-kent-02-kbvh-print1/05xp-kent-02-kbvh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1788,
+                    "width": 1193,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dispensing with royal decorum, the duchess embraced Jana Novotna after she lost the 1993 Wimbledon women’s final to Steffi Graf.",
+                    "copyright": "Denis Paquin/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/05xp-kent-02-kbvh-print1/05xp-kent-02-kbvh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dispensing with royal decorum, the duchess embraced Jana Novotna after she lost the 1993 Wimbledon women’s final to Steffi Graf.",
+                    "copyright": "Denis Paquin/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/05xp-kent-02-kbvh-print1/05xp-kent-02-kbvh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dispensing with royal decorum, the duchess embraced Jana Novotna after she lost the 1993 Wimbledon women’s final to Steffi Graf.",
+                    "copyright": "Denis Paquin/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "American Who Posed as Irish Heiress Is Found Guilty of Theft and Fraud",
+            "abstract": "Marianne Smyth was convicted in Northern Ireland, and could face up to 10 years in prison.",
+            "url": "https://www.nytimes.com/2025/09/05/world/europe/fake-heiress-fraud-guilty-northern-ireland.html",
+            "uri": "nyt://article/f34d43dd-cc14-5a14-a904-73c47f71a231",
+            "byline": "By Claire Moses",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T02:07:59-04:00",
+            "created_date": "2025-09-05T08:04:30-04:00",
+            "published_date": "2025-09-05T08:04:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Frauds and Swindling",
+                "Impostors (Criminal)",
+                "Extradition"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Smyth, Marianne"
+            ],
+            "geo_facet": [
+                "Northern Ireland"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-fakeheiress-pcjg/05xp-fakeheiress-pcjg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 668,
+                    "width": 1000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over the years, Marianne Smyth has been accused of using deceptions to swindle hefty sums of money in schemes that led to two felony convictions in the U.S.",
+                    "copyright": "Johnathan Walton/johnathanwalton.com"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-fakeheiress-pcjg/05xp-fakeheiress-pcjg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over the years, Marianne Smyth has been accused of using deceptions to swindle hefty sums of money in schemes that led to two felony convictions in the U.S.",
+                    "copyright": "Johnathan Walton/johnathanwalton.com"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05xp-fakeheiress-pcjg/05xp-fakeheiress-pcjg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over the years, Marianne Smyth has been accused of using deceptions to swindle hefty sums of money in schemes that led to two felony convictions in the U.S.",
+                    "copyright": "Johnathan Walton/johnathanwalton.com"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israel Steps Up Attacks on Gaza City Ahead of a Planned Wider Offensive",
+            "abstract": "The Israeli military destroyed a landmark building after saying it had taken control of almost half of the city, where hundreds of thousands of civilians are sheltering amid a worsening humanitarian crisis.",
+            "url": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-city-takeover.html",
+            "uri": "nyt://article/ba02635d-79ad-52d4-a3bd-af439cb62456",
+            "byline": "By Liam Stack and Saher Alghorra",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T11:43:03-04:00",
+            "created_date": "2025-09-05T07:48:37-04:00",
+            "published_date": "2025-09-05T07:48:37-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Defense and Military Forces",
+                "Terrorism",
+                "Palestinians",
+                "Refugees and Displaced Persons"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel",
+                "Gaza City (Gaza Strip)",
+                "Gaza Strip"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05israel-gaza-new-top-hglf/05israel-gaza-new-top-hglf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1394,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli strike hit the Mushtaha Tower in Gaza City on Friday. The Israeli military said Hamas used the building for intelligence-gathering, but Hamas denied the accusation. ",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05israel-gaza-new-top-hglf/05israel-gaza-new-top-hglf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli strike hit the Mushtaha Tower in Gaza City on Friday. The Israeli military said Hamas used the building for intelligence-gathering, but Hamas denied the accusation. ",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05israel-gaza-new-top-hglf/05israel-gaza-new-top-hglf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Israeli strike hit the Mushtaha Tower in Gaza City on Friday. The Israeli military said Hamas used the building for intelligence-gathering, but Hamas denied the accusation. ",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Angela Rayner, U.K. Deputy Premier, Resigns After Underpaying a Property Tax",
+            "abstract": "In a blow to Prime Minister Keir Starmer, Ms. Rayner said she would step down after an ethics adviser found she had breached a code of conduct for government ministers.",
+            "url": "https://www.nytimes.com/2025/09/05/world/europe/angela-rayner-resigns-uk-starmer-tax.html",
+            "uri": "nyt://article/b8436408-a816-5aae-810a-44508a76c413",
+            "byline": "By Mark Landler",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T21:47:11-04:00",
+            "created_date": "2025-09-05T07:11:06-04:00",
+            "published_date": "2025-09-05T07:11:06-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Taxation",
+                "Ethics and Official Misconduct",
+                "Polls and Public Opinion"
+            ],
+            "org_facet": [
+                "Labour Party (Great Britain)"
+            ],
+            "per_facet": [
+                "Rayner, Angela (1980- )",
+                "Starmer, Keir"
+            ],
+            "geo_facet": [
+                "England",
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04uk-rayner-tmbc/04uk-rayner-tmbc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Angela Rayner in July. As deputy prime minister, she had come to be seen as a powerful ally of Keir Starmer and a bridge to the left of the Labour Party.",
+                    "copyright": "Carl Court/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04uk-rayner-tmbc/04uk-rayner-tmbc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Angela Rayner in July. As deputy prime minister, she had come to be seen as a powerful ally of Keir Starmer and a bridge to the left of the Labour Party.",
+                    "copyright": "Carl Court/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/04uk-rayner-tmbc/04uk-rayner-tmbc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Angela Rayner in July. As deputy prime minister, she had come to be seen as a powerful ally of Keir Starmer and a bridge to the left of the Labour Party.",
+                    "copyright": "Carl Court/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "A Nighttime Raid",
+            "abstract": "An investigation details a previously undisclosed U.S. operation to intercept the North Korean leader’s communications.",
+            "url": "https://www.nytimes.com/2025/09/05/briefing/a-nighttime-raid.html",
+            "uri": "nyt://article/3e55bdf7-35d5-5afe-989a-c8dc7e6bd08a",
+            "byline": "By Dave Philipps",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T06:57:41-04:00",
+            "created_date": "2025-09-05T06:31:43-04:00",
+            "published_date": "2025-09-05T06:31:43-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Kennedy, Robert Francis",
+                "Armani, Giorgio"
+            ],
+            "geo_facet": [
+                "North Korea",
+                "Venezuela"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/reader-center/05themorning-nl-TOP/0907-NAT-SEAL-RAID-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Max-o-matic"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/reader-center/05themorning-nl-TOP/0907-NAT-SEAL-RAID-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Max-o-matic"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/reader-center/05themorning-nl-TOP/05themorning-nl-TOP-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Max-o-matic"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Lisbon Funicular Was Inspected Hours Before Deadly Crash",
+            "abstract": "Investigators are searching for the cause of the crash that killed 16 people, with questions focusing on a possible failure of the cable that kept the two cars in balance.",
+            "url": "https://www.nytimes.com/2025/09/05/world/europe/portugal-lisbon-funicular-crash.html",
+            "uri": "nyt://article/1bee9394-2e49-564d-876c-55842b042c20",
+            "byline": "By Emma Bubola and Daniela Ferreira Pinto",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T10:43:57-04:00",
+            "created_date": "2025-09-05T05:45:15-04:00",
+            "published_date": "2025-09-05T05:45:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cable Cars and Trams",
+                "Railroad Accidents and Safety"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Portugal",
+                "Lisbon (Portugal)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/10/05/multimedia/05vid-lisbon-funicular-cover-vwpm/05vid-lisbon-funicular-cover-vwpm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ana Brigida/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/10/05/multimedia/05vid-lisbon-funicular-cover-vwpm/05vid-lisbon-funicular-cover-vwpm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ana Brigida/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/10/05/multimedia/05vid-lisbon-funicular-cover-vwpm/05vid-lisbon-funicular-cover-vwpm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ana Brigida/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Why Hamas Refuses to Give Up",
+            "abstract": "Analysts say that despite its vast losses in Gaza, Hamas believes it can hold out for a deal that ensures its survival.",
+            "url": "https://www.nytimes.com/2025/09/05/world/middleeast/gaza-hamas-surrender-israel.html",
+            "uri": "nyt://article/729ea1d0-b005-510d-9200-53e7b7e04fde",
+            "byline": "By Adam Rasgon",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T21:49:00-04:00",
+            "created_date": "2025-09-05T05:22:54-04:00",
+            "published_date": "2025-09-05T05:22:54-04:00",
+            "material_type_facet": "",
+            "kicker": "news analysis",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Kidnapping and Hostages",
+                "Defense and Military Forces",
+                "Refugees and Displaced Persons"
+            ],
+            "org_facet": [
+                "Hamas",
+                "Palestinian Authority"
+            ],
+            "per_facet": [
+                "Netanyahu, Benjamin",
+                "Badran, Husam"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/28/multimedia/00int-gaza-surrender-01-lkhv/00int-gaza-surrender-01-lkhv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hamas fighters in southern Gaza stood guard as the group handed over the bodies of Israeli prisoners as part of an exchange deal in February.",
+                    "copyright": "Saher Alghorra for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/28/multimedia/00int-gaza-surrender-01-lkhv/00int-gaza-surrender-01-lkhv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hamas fighters in southern Gaza stood guard as the group handed over the bodies of Israeli prisoners as part of an exchange deal in February.",
+                    "copyright": "Saher Alghorra for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/28/multimedia/00int-gaza-surrender-01-lkhv/00int-gaza-surrender-01-lkhv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hamas fighters in southern Gaza stood guard as the group handed over the bodies of Israeli prisoners as part of an exchange deal in February.",
+                    "copyright": "Saher Alghorra for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "French Winemaker Gets Prison for Scheme That Threatened the Champagne Bubble",
+            "abstract": "Didier Chopin, 56, was accused of passing off wine made with carbonated grapes from Spain and other regions in France as Champagne.",
+            "url": "https://www.nytimes.com/2025/09/05/world/europe/france-fake-champagne-sentence.html",
+            "uri": "nyt://article/3f3ed140-ca47-5454-95f2-9a60edb71302",
+            "byline": "By Ephrat Livni",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T22:15:17-04:00",
+            "created_date": "2025-09-05T05:02:50-04:00",
+            "published_date": "2025-09-05T05:02:50-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Champagne (Wine)",
+                "Frauds and Swindling",
+                "Counterfeit Merchandise",
+                "Regulation and Deregulation of Industry",
+                "Fines (Penalties)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Didier Chopin",
+                "Karine Chopin-Faye"
+            ],
+            "geo_facet": [
+                "Champagne Region (France)",
+                "France",
+                "Morocco"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-france-champagne-scam-01-cmwq/05int-france-champagne-scam-01-cmwq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A grape picker in a vineyard during the Champagne harvest in Pierry, France, in 2024. The first rule of Champagne is that only producers using local grapes can claim that name.",
+                    "copyright": "Francois Nascimbeni/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-france-champagne-scam-01-cmwq/05int-france-champagne-scam-01-cmwq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A grape picker in a vineyard during the Champagne harvest in Pierry, France, in 2024. The first rule of Champagne is that only producers using local grapes can claim that name.",
+                    "copyright": "Francois Nascimbeni/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05int-france-champagne-scam-01-cmwq/05int-france-champagne-scam-01-cmwq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A grape picker in a vineyard during the Champagne harvest in Pierry, France, in 2024. The first rule of Champagne is that only producers using local grapes can claim that name.",
+                    "copyright": "Francois Nascimbeni/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Two Valuable Satellites Are in ‘Perfect Health.’ They May Be Scrapped.",
+            "abstract": "The Trump administration wants to switch off and possibly destroy the climate-monitoring technology.",
+            "url": "https://www.nytimes.com/2025/09/05/climate/trump-climate-satellites.html",
+            "uri": "nyt://article/fbb490bd-c85a-55da-8d91-7f7eb9aa83a4",
+            "byline": "By Sachi Kitajima Mulkey",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T10:15:15-04:00",
+            "created_date": "2025-09-05T05:02:24-04:00",
+            "published_date": "2025-09-05T05:02:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Satellites",
+                "Sensors",
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "United States Politics and Government",
+                "Federal Budget (US)",
+                "Carbon Dioxide",
+                "Science and Technology"
+            ],
+            "org_facet": [
+                "European Space Agency",
+                "National Aeronautics and Space Administration"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/00CLI-SATELLITES-06/00CLI-SATELLITES-06-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the satellite technology at risk of being defunded is attached to the International Space Station.",
+                    "copyright": "NASA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/00CLI-SATELLITES-06/00CLI-SATELLITES-06-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the satellite technology at risk of being defunded is attached to the International Space Station.",
+                    "copyright": "NASA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/science/00CLI-SATELLITES-06/00CLI-SATELLITES-06-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some of the satellite technology at risk of being defunded is attached to the International Space Station.",
+                    "copyright": "NASA"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Carlo Acutis, a Saint for the Modern Age",
+            "abstract": "Nicknamed God’s influencer, Carlo, who died at age 15, used technology to express his religious beliefs. The church sees him as a way to connect to the young.",
+            "url": "https://www.nytimes.com/2025/09/05/world/europe/vatican-carlo-acutis-sainthood.html",
+            "uri": "nyt://article/6fb72ff1-f2dd-5d23-a1cc-10910d0a62c9",
+            "byline": "By Elisabetta Povoledo",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T06:29:09-04:00",
+            "created_date": "2025-09-05T05:02:11-04:00",
+            "published_date": "2025-09-05T05:02:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Beatifications and Canonizations"
+            ],
+            "org_facet": [
+                "Roman Catholic Church"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05vatican-saint-01-gpvf/05vatican-saint-01-gpvf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An image hanging from the facade of St. Peter’s Basilica at the Vatican of Carlo Acutis, a British-born Italian boy who will become the first millennial to be made a Catholic saint. ",
+                    "copyright": "Guglielmo Mangiapane/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05vatican-saint-01-gpvf/05vatican-saint-01-gpvf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An image hanging from the facade of St. Peter’s Basilica at the Vatican of Carlo Acutis, a British-born Italian boy who will become the first millennial to be made a Catholic saint. ",
+                    "copyright": "Guglielmo Mangiapane/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/05vatican-saint-01-gpvf/05vatican-saint-01-gpvf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An image hanging from the facade of St. Peter’s Basilica at the Vatican of Carlo Acutis, a British-born Italian boy who will become the first millennial to be made a Catholic saint. ",
+                    "copyright": "Guglielmo Mangiapane/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "How a Top Secret SEAL Team 6 Mission Into North Korea Fell Apart",
+            "abstract": "The 2019 operation, greenlit by President Trump, sought a strategic edge. It left unarmed North Koreans dead.",
+            "url": "https://www.nytimes.com/2025/09/05/us/navy-seal-north-korea-trump-2019.html",
+            "uri": "nyt://article/23d163ce-4f1d-529a-b03d-600381ba4ed8",
+            "byline": "By Dave Philipps and Matthew Cole",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T10:54:14-04:00",
+            "created_date": "2025-09-05T05:00:22-04:00",
+            "published_date": "2025-09-05T05:00:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "United States Defense and Military Forces",
+                "Classified Information and State Secrets",
+                "Wiretapping and Other Eavesdropping Devices and Methods",
+                "Submarines and Submersibles"
+            ],
+            "org_facet": [
+                "Navy Seals",
+                "United States Special Operations Command"
+            ],
+            "per_facet": [
+                "Kim Jong-un",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "North Korea"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/30/multimedia/00nat-seal-raid-body-promo/00nat-seal-raid-body-promo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1442,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump and the North Korean leader, Kim Jong-un, had an erratic relationship. They met on Sentosa Island in Singapore in 2018.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/30/multimedia/00nat-seal-raid-body-promo/00nat-seal-raid-body-promo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump and the North Korean leader, Kim Jong-un, had an erratic relationship. They met on Sentosa Island in Singapore in 2018.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/07/30/multimedia/00nat-seal-raid-body-promo/00nat-seal-raid-body-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump and the North Korean leader, Kim Jong-un, had an erratic relationship. They met on Sentosa Island in Singapore in 2018.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}

@@ -1,0 +1,1624 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2025-09-06T20:47:37-04:00",
+    "num_results": 25,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Grand Juries in D.C. Reject Wave of Charges Under Trump’s Crackdown",
+            "abstract": "The persistent rejections suggest that the grand jurors may have had enough of prosecutors seeking harsh charges in a highly politicized environment.",
+            "url": "https://www.nytimes.com/2025/09/06/us/trump-dc-national-guard-grand-juries-crime.html",
+            "uri": "nyt://article/369e7275-de57-5bfd-85fe-f1b4b7a9f08e",
+            "byline": "By Alan Feuer",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T20:23:07-04:00",
+            "created_date": "2025-09-06T05:02:21-04:00",
+            "published_date": "2025-09-06T05:02:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Jury System",
+                "Demonstrations, Protests and Riots",
+                "United States Attorneys"
+            ],
+            "org_facet": [
+                "Fox News Channel",
+                "Justice Department",
+                "Secret Service"
+            ],
+            "per_facet": [
+                "Pirro, Jeanine",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Michigan",
+                "Washington (DC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-grandjuries-pzml/dc-grandjuries-pzml-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Grand jurors have refused in at least seven recent cases to indict their fellow residents who became entangled in the president’s show of force.",
+                    "copyright": "Eric Lee for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-grandjuries-pzml/dc-grandjuries-pzml-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Grand jurors have refused in at least seven recent cases to indict their fellow residents who became entangled in the president’s show of force.",
+                    "copyright": "Eric Lee for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-grandjuries-pzml/dc-grandjuries-pzml-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Grand jurors have refused in at least seven recent cases to indict their fellow residents who became entangled in the president’s show of force.",
+                    "copyright": "Eric Lee for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Tensions Mount As Trump Administration Threatens Federal Crackdown in Chicago",
+            "abstract": "In a social media post, President Trump said Chicago was “about to find out why it’s called the Department of WAR.” Illinois officials condemned the message.",
+            "url": "https://www.nytimes.com/2025/09/06/us/trump-chicago-ice-raids-immigration.html",
+            "uri": "nyt://article/3f1f9667-3715-5e49-b8ad-626d40893c3e",
+            "byline": "By Hamed Aleaziz and Julie Bosman",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T20:06:40-04:00",
+            "created_date": "2025-09-06T20:06:25-04:00",
+            "published_date": "2025-09-06T20:06:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Illegal Immigration"
+            ],
+            "org_facet": [
+                "Immigration and Customs Enforcement (US)"
+            ],
+            "per_facet": [
+                "Pritzker, J B",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Chicago (Ill)",
+                "Illinois"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-chicago-ice-mklg/06nat-chicago-ice-mklg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Metal barricades were placed around the federal courthouse on Thursday night in the heart of Chicago’s downtown.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-chicago-ice-mklg/06nat-chicago-ice-mklg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Metal barricades were placed around the federal courthouse on Thursday night in the heart of Chicago’s downtown.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06nat-chicago-ice-mklg/06nat-chicago-ice-mklg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Metal barricades were placed around the federal courthouse on Thursday night in the heart of Chicago’s downtown.",
+                    "copyright": "Jamie Kelter Davis for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "ICE Has Begun Immigration Crackdown in Massachusetts",
+            "abstract": "The operation includes Boston, whose mayor has drawn the administration’s ire for speaking out against the growing scale of its immigration actions.",
+            "url": "https://www.nytimes.com/2025/09/06/us/politics/ice-operation-boston.html",
+            "uri": "nyt://article/ff64b15b-687b-59e0-929a-c41688f97c41",
+            "byline": "By Hamed Aleaziz",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:07:45-04:00",
+            "created_date": "2025-09-06T13:52:27-04:00",
+            "published_date": "2025-09-06T13:52:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Illegal Immigration",
+                "Federal-State Relations (US)",
+                "Immigration Detention"
+            ],
+            "org_facet": [
+                "Immigration and Customs Enforcement (US)"
+            ],
+            "per_facet": [
+                "Wu, Michelle (1985- )",
+                "Bondi, Pamela J"
+            ],
+            "geo_facet": [
+                "Boston (Mass)",
+                "Massachusetts"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-ice-boston-vwfb/06dc-ice-boston-vwfb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A homeland security officer observed a news briefing by Mayor Michelle Wu in Boston last month, after Attorney General Pam Bondi demanded that Boston lift its sanctuary city policies.",
+                    "copyright": "Brian Snyder/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-ice-boston-vwfb/06dc-ice-boston-vwfb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A homeland security officer observed a news briefing by Mayor Michelle Wu in Boston last month, after Attorney General Pam Bondi demanded that Boston lift its sanctuary city policies.",
+                    "copyright": "Brian Snyder/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-ice-boston-vwfb/06dc-ice-boston-vwfb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A homeland security officer observed a news briefing by Mayor Michelle Wu in Boston last month, after Attorney General Pam Bondi demanded that Boston lift its sanctuary city policies.",
+                    "copyright": "Brian Snyder/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "President of Peace, Department of War. A New Name Sends Mixed Signals.",
+            "abstract": "President Trump’s renaming of the Defense Department comes amid his campaign for a Nobel Peace Prize. On Saturday, he wrote on social media that Chicago was “about to find out why it’s called the Department of WAR.”",
+            "url": "https://www.nytimes.com/2025/09/06/us/politics/trump-department-of-war.html",
+            "uri": "nyt://article/bac00be4-09d4-5107-a408-0a685ce40872",
+            "byline": "By Erica L. Green",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T20:36:11-04:00",
+            "created_date": "2025-09-06T17:20:14-04:00",
+            "published_date": "2025-09-06T17:20:14-04:00",
+            "material_type_facet": "",
+            "kicker": "White House Memo",
+            "des_facet": [
+                "United States Politics and Government",
+                "United States Defense and Military Forces",
+                "Presidents and Presidency (US)",
+                "Executive Orders and Memorandums"
+            ],
+            "org_facet": [
+                "Defense Department"
+            ],
+            "per_facet": [
+                "Hegseth, Pete",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-trump-war-jgtp/06dc-trump-war-jgtp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order on Friday to change the name of the Defense Department to the Department of War. Without congressional approval, the new name will be only ceremonial.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-trump-war-jgtp/06dc-trump-war-jgtp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order on Friday to change the name of the Defense Department to the Department of War. Without congressional approval, the new name will be only ceremonial.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-trump-war-jgtp/06dc-trump-war-jgtp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order on Friday to change the name of the Defense Department to the Department of War. Without congressional approval, the new name will be only ceremonial.",
+                    "copyright": "Haiyun Jiang/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "In India’s Rebound From Trump Blows, Modi Has No Easy Choices",
+            "abstract": "The unraveling of relations between the United States and India has convinced many Indian officials that the country should return to its difficult balancing act of nonalignment.",
+            "url": "https://www.nytimes.com/2025/09/06/world/asia/india-modi-trump-united-states-relations.html",
+            "uri": "nyt://article/bfacfdd0-98e8-5664-a11c-6dda1f22588f",
+            "byline": "By Mujib Mashal",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T12:50:53-04:00",
+            "created_date": "2025-09-06T12:35:34-04:00",
+            "published_date": "2025-09-06T12:35:34-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "United States International Relations",
+                "Indian-Americans"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Modi, Narendra",
+                "Trump, Donald J",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "China",
+                "India",
+                "United States",
+                "Delhi (India)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-india-modi-choices-promo-vzwm/06int-india-modi-choices-promo-vzwm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-india-modi-choices-promo-vzwm/06int-india-modi-choices-promo-vzwm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eric Lee/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-india-modi-choices-promo-vzwm/06int-india-modi-choices-promo-vzwm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eric Lee/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "At George Mason University, Trump Has Found an Unbending Adversary",
+            "abstract": "Gregory Washington, George Mason’s first Black president, runs a university that prizes diversity. That has made him a target of the Trump administration.",
+            "url": "https://www.nytimes.com/2025/09/06/us/george-mason-university-gregory-washington-trump-attack.html",
+            "uri": "nyt://article/7dca9b1a-941b-580c-8445-3b0b61a5863a",
+            "byline": "By Stephanie Saul",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T13:31:18-04:00",
+            "created_date": "2025-09-06T05:01:55-04:00",
+            "published_date": "2025-09-06T05:01:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Colleges and Universities",
+                "Civil Rights and Liberties",
+                "Black People",
+                "Diversity Initiatives"
+            ],
+            "org_facet": [
+                "George Mason University"
+            ],
+            "per_facet": [
+                "Washington, Gregory N",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/00nat-george-mason-03-qmvj/00nat-george-mason-03-qmvj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration demanded that Gregory Washington, president of George Mason University, personally apologize for supporting diversity programs. He said no.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/00nat-george-mason-03-qmvj/00nat-george-mason-03-qmvj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration demanded that Gregory Washington, president of George Mason University, personally apologize for supporting diversity programs. He said no.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/03/multimedia/00nat-george-mason-03-qmvj/00nat-george-mason-03-qmvj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration demanded that Gregory Washington, president of George Mason University, personally apologize for supporting diversity programs. He said no.",
+                    "copyright": "Michael A. McCoy for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "What Has the Trump Administration Gotten From Law Firms and Universities?",
+            "abstract": "A recent ruling against the Trump administration’s federal funding cuts was a temporary win for Harvard. But a dozen other institutions already struck deals with the government involving millions of dollars in payments and commitments to prioritize causes championed by the president.",
+            "url": "https://www.nytimes.com/interactive/2025/09/06/us/trump-deals-law-firms-universities-concessions.html",
+            "uri": "nyt://interactive/efbdebe0-c29b-521b-a9a5-be6712dd5a3a",
+            "byline": "By Ashley Wu",
+            "item_type": "Interactive",
+            "updated_date": "2025-09-06T05:00:41-04:00",
+            "created_date": "2025-09-06T05:00:41-04:00",
+            "published_date": "2025-09-06T05:00:41-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Colleges and Universities",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Columbia University",
+                "Brown University"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/2025-08-12-trump-deals-index/2025-08-12-trump-deals-index-superJumbo-v3.png",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/2025-08-12-trump-deals-index/2025-08-12-trump-deals-index-threeByTwoSmallAt2X-v4.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/2025-08-12-trump-deals-index/2025-08-12-trump-deals-index-thumbLarge-v3.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Settlement Talks Stall Between Harvard and the Trump Administration",
+            "abstract": "One major reason is said to be an emerging divide within the administration over whether the current framework is too favorable to Harvard.",
+            "url": "https://www.nytimes.com/2025/09/06/us/politics/harvard-trump-negotiations-stall.html",
+            "uri": "nyt://article/33705d76-a313-533b-824d-5fcff3684479",
+            "byline": "By Michael C. Bender, Michael S. Schmidt and Alan Blinder",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:48:34-04:00",
+            "created_date": "2025-09-06T05:02:08-04:00",
+            "published_date": "2025-09-06T05:02:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Colleges and Universities",
+                "United States Politics and Government",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": [
+                "Columbia University",
+                "Harvard University",
+                "Justice Department",
+                "American Assn of University Professors"
+            ],
+            "per_facet": [
+                "Dhillon, Harmeet",
+                "Burroughs, Allison D",
+                "Mailman, May (1988- )",
+                "McMahon, Linda E",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-harvard-mpwc/dc-harvard-mpwc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration has opened more than a dozen federal investigations into Harvard over a variety of targets, from the university’s admissions policies to its patent paperwork.",
+                    "copyright": "Sophie Park for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-harvard-mpwc/dc-harvard-mpwc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration has opened more than a dozen federal investigations into Harvard over a variety of targets, from the university’s admissions policies to its patent paperwork.",
+                    "copyright": "Sophie Park for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/05/multimedia/dc-harvard-mpwc/dc-harvard-mpwc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Trump administration has opened more than a dozen federal investigations into Harvard over a variety of targets, from the university’s admissions policies to its patent paperwork.",
+                    "copyright": "Sophie Park for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "Thrust Into the Line of Fire, Iranians Worry About What Comes Next",
+            "abstract": "A 12-day war in June upended the shadow war rivalry between Israel and Iran. Some Iranians want to strike back, others want to move on.",
+            "url": "https://www.nytimes.com/2025/09/06/world/africa/thrust-into-the-line-of-fire-iranians-worry-about-what-comes-next.html",
+            "uri": "nyt://article/3916c418-eade-5976-abc3-48b179b5a429",
+            "byline": "By Declan Walsh and Nanna Heitmann",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:56:57-04:00",
+            "created_date": "2025-09-06T00:01:24-04:00",
+            "published_date": "2025-09-06T00:01:24-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Iran-Israel War (2025- )",
+                "Civilian Casualties",
+                "Embargoes and Sanctions",
+                "Deaths (Fatalities)",
+                "Politics and Government",
+                "Iran-Israel Proxy Conflict"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Iran"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/xxint-iran-01-hfgz/xxint-iran-01-hfgz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over 12 days of war in June, more than 1,000 Iranians were killed in Israeli attacks. Most were civilians.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/xxint-iran-01-hfgz/xxint-iran-01-hfgz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over 12 days of war in June, more than 1,000 Iranians were killed in Israeli attacks. Most were civilians.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/xxint-iran-01-hfgz/xxint-iran-01-hfgz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Over 12 days of war in June, more than 1,000 Iranians were killed in Israeli attacks. Most were civilians.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "At Least 425 Pro-Palestinian Protesters Arrested in London on Terrorism Charges",
+            "abstract": "The demonstrators oppose the British government’s decision to designate Palestine Action as a terrorist organization.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/palestine-action-arrests-britain.html",
+            "uri": "nyt://article/ae105080-63d3-5f2b-b278-029d8e150364",
+            "byline": "By Lizzie Dearden",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:03:44-04:00",
+            "created_date": "2025-09-06T13:39:54-04:00",
+            "published_date": "2025-09-06T13:39:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Terrorism",
+                "Demonstrations, Protests and Riots",
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Freedom of Speech and Expression"
+            ],
+            "org_facet": [
+                "Palestine Action"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "England",
+                "Gaza Strip",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-palestine-action-01-pbgv/06int-uk-palestine-action-01-pbgv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers detain a demonstrator at the “Lift The Ban” rally at Parliament Square in London, on Saturday.",
+                    "copyright": "Carlos Jasso/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-palestine-action-01-pbgv/06int-uk-palestine-action-01-pbgv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers detain a demonstrator at the “Lift The Ban” rally at Parliament Square in London, on Saturday.",
+                    "copyright": "Carlos Jasso/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-uk-palestine-action-01-pbgv/06int-uk-palestine-action-01-pbgv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police officers detain a demonstrator at the “Lift The Ban” rally at Parliament Square in London, on Saturday.",
+                    "copyright": "Carlos Jasso/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "What’s Inside the Envelope That U.S. Open Winners Get? It’s Not a Check.",
+            "abstract": "Both singles champions will win $5 million. But the envelope they receive during the trophy presentation is a symbolic gesture.",
+            "url": "https://www.nytimes.com/2025/09/06/business/us-open-prize-money-checks.html",
+            "uri": "nyt://article/ab49da7c-26e8-562a-9b96-f1a62d073a29",
+            "byline": "By Ron Lieber",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T05:02:18-04:00",
+            "created_date": "2025-09-06T05:02:18-04:00",
+            "published_date": "2025-09-06T05:02:18-04:00",
+            "material_type_facet": "",
+            "kicker": "Your Money",
+            "des_facet": [
+                "Personal Finances",
+                "Checks and Checking Accounts",
+                "United States Open (Tennis)"
+            ],
+            "org_facet": [
+                "United States Tennis Assn",
+                "JPMorgan Chase & Company"
+            ],
+            "per_facet": [
+                "Stephens, Sloane"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06biz-checks-sloane-fqkc/06biz-checks-sloane-fqkc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sloane Stephens received $3.7 million for winning the U.S. Open women’s singles title in 2017. But it was not in the envelope she held.",
+                    "copyright": "Tim Clayton/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06biz-checks-sloane-fqkc/06biz-checks-sloane-fqkc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sloane Stephens received $3.7 million for winning the U.S. Open women’s singles title in 2017. But it was not in the envelope she held.",
+                    "copyright": "Tim Clayton/Corbis, via Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06biz-checks-sloane-fqkc/06biz-checks-sloane-fqkc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Sloane Stephens received $3.7 million for winning the U.S. Open women’s singles title in 2017. But it was not in the envelope she held.",
+                    "copyright": "Tim Clayton/Corbis, via Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Immigration Raid on Hyundai-LG Plant in Georgia Rattles South Korea",
+            "abstract": "The country said it had sent diplomats to the site, and South Korea’s foreign minister said he might travel to Washington himself to address the matter.",
+            "url": "https://www.nytimes.com/2025/09/06/world/asia/immigration-raid-hyundai-lg-south-korea-georgia.html",
+            "uri": "nyt://article/93d99bd6-67a0-571f-b28a-ab9631b09ec2",
+            "byline": "By Choe Sang-Hun",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T20:03:17-04:00",
+            "created_date": "2025-09-06T05:32:35-04:00",
+            "published_date": "2025-09-06T05:32:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Trade and World Market",
+                "Illegal Immigration",
+                "Foreign Workers",
+                "United States International Relations",
+                "Foreign Investments",
+                "Factories and Manufacturing",
+                "Labor and Jobs",
+                "Electric and Hybrid Vehicles",
+                "Visas"
+            ],
+            "org_facet": [
+                "Hyundai Motor Co",
+                "LG Energy Solution"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Lee Jae-myung"
+            ],
+            "geo_facet": [
+                "Seoul (South Korea)",
+                "Georgia",
+                "South Korea",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/06int-skorea-raid-reax-qzkt/06int-skorea-raid-reax-qzkt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Hyundai plant in Ellabell, Ga., in March. On Thursday, U.S. law enforcement officers arrested hundreds of South Korean nationals at a neighboring construction site owned by Hyundai and LG.",
+                    "copyright": "Mike Stewart/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/06int-skorea-raid-reax-qzkt/06int-skorea-raid-reax-qzkt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Hyundai plant in Ellabell, Ga., in March. On Thursday, U.S. law enforcement officers arrested hundreds of South Korean nationals at a neighboring construction site owned by Hyundai and LG.",
+                    "copyright": "Mike Stewart/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/multimedia/06int-skorea-raid-reax-qzkt/06int-skorea-raid-reax-qzkt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Hyundai plant in Ellabell, Ga., in March. On Thursday, U.S. law enforcement officers arrested hundreds of South Korean nationals at a neighboring construction site owned by Hyundai and LG.",
+                    "copyright": "Mike Stewart/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Lottery Winners Share Hard Lessons Ahead of $1.8 Billion Powerball Drawing",
+            "abstract": "Past jackpot winners recall fortunes found, mistakes made and advice for those holding a lucky ticket.",
+            "url": "https://www.nytimes.com/2025/09/06/us/powerball-lottery-past-winners-advice.html",
+            "uri": "nyt://article/c67435ed-9dc5-583b-adc0-7b80ec7fd3c1",
+            "byline": "By Mark Walker",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T15:27:17-04:00",
+            "created_date": "2025-09-06T15:27:17-04:00",
+            "published_date": "2025-09-06T15:27:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Lotteries",
+                "Gambling",
+                "Credit and Debt",
+                "Records and Achievements"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Missouri",
+                "Illinois",
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-lottery-mtcw/06xp-lottery-mtcw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some last lottery winners have turned over their fortune to a financial adviser to manage. Others have seen their money fritter away on expensive purchases.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-lottery-mtcw/06xp-lottery-mtcw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some last lottery winners have turned over their fortune to a financial adviser to manage. Others have seen their money fritter away on expensive purchases.",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-lottery-mtcw/06xp-lottery-mtcw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Some last lottery winners have turned over their fortune to a financial adviser to manage. Others have seen their money fritter away on expensive purchases.",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Here Are the 10 Biggest U.S. Lottery Jackpots Ever",
+            "abstract": "The most recent Powerball jackpot increased to $1.8 billion. Changes to Powerball and Mega Millions have led to increasingly large jackpots in recent years.",
+            "url": "https://www.nytimes.com/article/lottery-jackpot-record-powerball-megamillions.html",
+            "uri": "nyt://article/dd308315-b4f8-5bf5-b0c2-412a0d857a6a",
+            "byline": "By The New York Times",
+            "item_type": "Article",
+            "updated_date": "2025-09-05T14:42:03-04:00",
+            "created_date": "2023-10-09T04:02:00-04:00",
+            "published_date": "2023-10-09T04:02:00-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Lotteries",
+                "Gambling"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/03/29/multimedia/xp-lotteryjackpot-update3-pmhb/xp-lotteryjackpot-update3-pmhb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In March, a Mega Millions jackpot became the first in 2024 to to pass $1 billion.",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/03/29/multimedia/xp-lotteryjackpot-update3-pmhb/xp-lotteryjackpot-update3-pmhb-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In March, a Mega Millions jackpot became the first in 2024 to to pass $1 billion.",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/03/29/multimedia/xp-lotteryjackpot-update3-pmhb/xp-lotteryjackpot-update3-pmhb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In March, a Mega Millions jackpot became the first in 2024 to to pass $1 billion.",
+                    "copyright": "Joe Raedle/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Humans Are Altering the Seas. Here’s What the Future Ocean Might Look Like.",
+            "abstract": "Some marine ecosystems could soon be unrecognizable, according to new research. We mapped the possibilities.",
+            "url": "https://www.nytimes.com/interactive/2025/09/04/climate/ocean-water-temperatures-sea-levels.html",
+            "uri": "nyt://interactive/ad949682-f320-5196-b6a1-f045210128be",
+            "byline": "By Delger Erdenesanaa and Mira Rojanasakul",
+            "item_type": "Interactive",
+            "updated_date": "2025-09-06T17:24:36-04:00",
+            "created_date": "2025-09-04T14:01:01-04:00",
+            "published_date": "2025-09-04T14:01:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Oceans and Seas",
+                "Research",
+                "Coastal Areas",
+                "Conservation of Resources",
+                "Fish and Other Marine Life",
+                "Fishing, Commercial",
+                "Weaving",
+                "Global Warming",
+                "Gullah Geechee People",
+                "Floods",
+                "Fishing, Sport",
+                "Biodiversity",
+                "Environment",
+                "Wetlands",
+                "Hurricanes and Tropical Storms",
+                "Handicrafts",
+                "Marine Biology",
+                "Islands"
+            ],
+            "org_facet": [
+                "Science (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Atlantic Ocean",
+                "North Carolina",
+                "Pacific Ocean"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-04-21-ocean-impacts-index/2025-04-21-ocean-impacts-index-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-04-21-ocean-impacts-index/2025-04-21-ocean-impacts-index-threeByTwoSmallAt2X-v3.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-04-21-ocean-impacts-index/2025-04-21-ocean-impacts-index-thumbLarge-v3.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "A Japanese Island Preserves an Ancient and Ghostly Theater Form",
+            "abstract": "Noh was once the entertainment of medieval warriors. Today, remote Sado Islanders embrace one of the world’s oldest surviving types of drama.",
+            "url": "https://www.nytimes.com/2025/09/06/world/asia/sado-island-japan-noh-theater.html",
+            "uri": "nyt://article/8c316e63-6586-5514-86d2-d4556d6f32e0",
+            "byline": "By Martin Fackler and Ko Sasaki",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T00:01:25-04:00",
+            "created_date": "2025-09-06T00:01:25-04:00",
+            "published_date": "2025-09-06T00:01:25-04:00",
+            "material_type_facet": "",
+            "kicker": "Japan Dispatch",
+            "des_facet": [
+                "Theater",
+                "Shinto",
+                "Music",
+                "Opera",
+                "Masks (Costume)",
+                "Islands",
+                "Ghosts",
+                "Actors and Actresses"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Japan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/14/multimedia/00int-japan-drama-noh-01-khfm/00int-japan-drama-noh-01-khfm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shinobu Kamiyama, center, playing the tormented ghost of a famously beautiful woman in the play “Tamakazura” at Ushio Shrine on Sado Island, Japan. Noh dramas often center on supernatural visitations.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/14/multimedia/00int-japan-drama-noh-01-khfm/00int-japan-drama-noh-01-khfm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shinobu Kamiyama, center, playing the tormented ghost of a famously beautiful woman in the play “Tamakazura” at Ushio Shrine on Sado Island, Japan. Noh dramas often center on supernatural visitations.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/08/14/multimedia/00int-japan-drama-noh-01-khfm/00int-japan-drama-noh-01-khfm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Shinobu Kamiyama, center, playing the tormented ghost of a famously beautiful woman in the play “Tamakazura” at Ushio Shrine on Sado Island, Japan. Noh dramas often center on supernatural visitations.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Authorities Point to Cable Disconnecting in First Report on Lisbon Funicular Crash",
+            "abstract": "Portuguese authorities released a highly anticipated preliminary report into the disaster, which killed 16 people this week.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/portugal-funicular-crash-preliminary-report-cable.html",
+            "uri": "nyt://article/c52c740e-b7f3-5f8a-bc11-3e6040e1d105",
+            "byline": "By Amelia Nierenberg, Tiago Carrasco and Pranav Baskar",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:20:46-04:00",
+            "created_date": "2025-09-06T16:53:34-04:00",
+            "published_date": "2025-09-06T16:53:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Workplace Hazards and Violations",
+                "Deaths (Fatalities)",
+                "Cable Cars and Trams",
+                "Railroad Accidents and Safety"
+            ],
+            "org_facet": [
+                "College of Charleston"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Lisbon (Portugal)",
+                "Portugal"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-portugal-victims-01-mflc/06int-portugal-victims-01-mflc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tributes to victims of the funicular accident in Lisbon, on Friday.",
+                    "copyright": "Patricia De Melo Moreira/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-portugal-victims-01-mflc/06int-portugal-victims-01-mflc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tributes to victims of the funicular accident in Lisbon, on Friday.",
+                    "copyright": "Patricia De Melo Moreira/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-portugal-victims-01-mflc/06int-portugal-victims-01-mflc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Tributes to victims of the funicular accident in Lisbon, on Friday.",
+                    "copyright": "Patricia De Melo Moreira/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Justice Breyer Defends Judge Accused of Defying Supreme Court Order",
+            "abstract": "The justice’s comments reflected tensions within the judiciary, as trial judges struggle to interpret the Supreme Court’s often cryptic emergency orders.",
+            "url": "https://www.nytimes.com/2025/09/06/us/politics/justice-breyer-boston-judge.html",
+            "uri": "nyt://article/56909615-aea4-5355-ab7b-5b8cf600d3e4",
+            "byline": "By Adam Liptak",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:32:04-04:00",
+            "created_date": "2025-09-06T17:32:04-04:00",
+            "published_date": "2025-09-06T17:32:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Decisions and Verdicts",
+                "United States Politics and Government",
+                "Courts and the Judiciary",
+                "Federal Courts (US)"
+            ],
+            "org_facet": [
+                "Supreme Court (US)"
+            ],
+            "per_facet": [
+                "Breyer, Stephen G",
+                "Burroughs, Allison D",
+                "Young, William G",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-breyer-pjcw/06dc-breyer-pjcw-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Justice Stephen Breyer in 2021.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-breyer-pjcw/06dc-breyer-pjcw-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Justice Stephen Breyer in 2021.",
+                    "copyright": "Erin Schaff/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06dc-breyer-pjcw/06dc-breyer-pjcw-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Former Justice Stephen Breyer in 2021.",
+                    "copyright": "Erin Schaff/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "A World War II Dispute Between Ukraine and Poland Is Put to Rest",
+            "abstract": "The remains of people killed and left in mass graves in the waning days of the war are being given dignified burials.",
+            "url": "https://www.nytimes.com/2025/09/06/world/europe/ukraine-poland-reburial-worldwar.html",
+            "uri": "nyt://article/413558ef-4d26-5cc5-8f6d-65e69e8fe239",
+            "byline": "By Andrew E. Kramer and Yurii Shyvala",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:40:13-04:00",
+            "created_date": "2025-09-06T14:00:39-04:00",
+            "published_date": "2025-09-06T14:00:39-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Foreign Aid",
+                "World War II (1939-45)",
+                "Defense and Military Forces",
+                "Politics and Government",
+                "War and Armed Conflicts"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Poland",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-ukraine-poland-reburial-01-gqzk/06int-ukraine-poland-reburial-01-gqzk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A priest conducting a mass burial ceremony of people killed during World War II in the now-abandoned, formerly ethnic Polish village of Puzhnyky, Ukraine, on Saturday.",
+                    "copyright": "Anastasiia Smolienko/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-ukraine-poland-reburial-01-gqzk/06int-ukraine-poland-reburial-01-gqzk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A priest conducting a mass burial ceremony of people killed during World War II in the now-abandoned, formerly ethnic Polish village of Puzhnyky, Ukraine, on Saturday.",
+                    "copyright": "Anastasiia Smolienko/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06int-ukraine-poland-reburial-01-gqzk/06int-ukraine-poland-reburial-01-gqzk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A priest conducting a mass burial ceremony of people killed during World War II in the now-abandoned, formerly ethnic Polish village of Puzhnyky, Ukraine, on Saturday.",
+                    "copyright": "Anastasiia Smolienko/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Men + Women + Apps = Bad Romance",
+            "abstract": "The two sexes are looking past each other.",
+            "url": "https://www.nytimes.com/2025/09/06/opinion/men-women-apps-bad-romance.html",
+            "uri": "nyt://article/6580401f-395f-5bd6-a7f0-b1e0f4c84f82",
+            "byline": "By Maureen Dowd",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T16:21:41-04:00",
+            "created_date": "2025-09-06T07:00:18-04:00",
+            "published_date": "2025-09-06T07:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "Maureen Dowd",
+            "des_facet": [
+                "Dating and Relationships",
+                "Women and Girls",
+                "Men and Boys",
+                "Social Media",
+                "Computers and the Internet"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/opinion/06dowd/06dowd-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Millee Tibbs"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/opinion/06dowd/06dowd-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Millee Tibbs"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/opinion/06dowd/06dowd-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Millee Tibbs"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "opinion",
+            "subsection": "",
+            "title": "Throwaway Plastic Has Corrupted Us",
+            "abstract": "Disposable plastics have profoundly reshaped the way we eat, shop, raise children and understand hygiene and progress.",
+            "url": "https://www.nytimes.com/2025/09/06/opinion/plastic-trash-disposable.html",
+            "uri": "nyt://article/a6e75705-a187-5df3-b6eb-c0ff08238feb",
+            "byline": "By Saabira Chaudhuri",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T12:40:51-04:00",
+            "created_date": "2025-09-06T07:00:17-04:00",
+            "published_date": "2025-09-06T07:00:17-04:00",
+            "material_type_facet": "",
+            "kicker": "Guest Essay",
+            "des_facet": [
+                "Waste Materials and Disposal",
+                "Parenting",
+                "Plastics",
+                "Diapers",
+                "Habits and Routines (Behavior)",
+                "Recycling of Waste Materials",
+                "Containers and Packaging",
+                "Sustainable Living",
+                "Supermarkets and Grocery Stores"
+            ],
+            "org_facet": [
+                "DuPont Co",
+                "Procter & Gamble Co"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/opinion/06chaudhuri/06chaudhuri-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1368,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thirza Schaap"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/opinion/06chaudhuri/06chaudhuri-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thirza Schaap"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/07/opinion/06chaudhuri/06chaudhuri-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thirza Schaap"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "Air Canada Flight Attendants Overwhelmingly Reject Proposed Contract",
+            "abstract": "But the vote will not lead to a repeat of the walkout that snarled air travel in Canada last month.",
+            "url": "https://www.nytimes.com/2025/09/06/world/canada/air-canada-union-strike-contract.html",
+            "uri": "nyt://article/8d0f7d08-4678-586b-bf2b-fb46a6143315",
+            "byline": "By Ian Austen",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T18:35:02-04:00",
+            "created_date": "2025-09-06T17:22:26-04:00",
+            "published_date": "2025-09-06T17:22:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Airlines and Airplanes",
+                "Strikes",
+                "Arbitration, Conciliation and Mediation",
+                "Flight Attendants",
+                "Labor and Jobs"
+            ],
+            "org_facet": [
+                "Air Canada",
+                "Canadian Union of Public Employees"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Canada"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06canada-airline-pbfl/06canada-airline-pbfl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Air Canada flight attendant walks through the terminal at Pierre-Elliott Trudeau Airport in Montreal last month.",
+                    "copyright": "Andrej Ivanov/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06canada-airline-pbfl/06canada-airline-pbfl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Air Canada flight attendant walks through the terminal at Pierre-Elliott Trudeau Airport in Montreal last month.",
+                    "copyright": "Andrej Ivanov/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06canada-airline-pbfl/06canada-airline-pbfl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An Air Canada flight attendant walks through the terminal at Pierre-Elliott Trudeau Airport in Montreal last month.",
+                    "copyright": "Andrej Ivanov/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Bernie Sanders Stumps for Mamdani as Part of Fighting Oligarchy Tour",
+            "abstract": "Mr. Sanders will host the Democratic front-runner for mayor of New York City at a town hall in Brooklyn on Saturday night. The two marched in a Labor Day parade that morning in Manhattan.",
+            "url": "https://www.nytimes.com/2025/09/06/nyregion/bernie-sanders-zohran-mamdani.html",
+            "uri": "nyt://article/93a11974-3400-58d8-9209-c0af428452ef",
+            "byline": "By Benjamin Oreskes and Emma G. Fitzsimmons",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T14:56:50-04:00",
+            "created_date": "2025-09-06T12:11:52-04:00",
+            "published_date": "2025-09-06T12:11:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Progressivism (Theory and Philosophy)",
+                "United States Politics and Government",
+                "Primaries and Caucuses",
+                "Elections",
+                "Elections, Mayors"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Democratic Socialists of America"
+            ],
+            "per_facet": [
+                "Adams, Eric L",
+                "Cuomo, Andrew M",
+                "Mamdani, Zohran",
+                "Ocasio-Cortez, Alexandria",
+                "Sanders, Bernard"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06met-sanders-mamdani-mjpk/06met-sanders-mamdani-mjpk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Zohran Mamdani, center left, and Senator Bernie Sanders of Vermont, center right, joined a Labor Day parade in Manhattan on Saturday. Union support has almost exclusively lined up behind Mr. Mamdani.",
+                    "copyright": "Victor J. Blue for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06met-sanders-mamdani-mjpk/06met-sanders-mamdani-mjpk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Zohran Mamdani, center left, and Senator Bernie Sanders of Vermont, center right, joined a Labor Day parade in Manhattan on Saturday. Union support has almost exclusively lined up behind Mr. Mamdani.",
+                    "copyright": "Victor J. Blue for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06met-sanders-mamdani-mjpk/06met-sanders-mamdani-mjpk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Zohran Mamdani, center left, and Senator Bernie Sanders of Vermont, center right, joined a Labor Day parade in Manhattan on Saturday. Union support has almost exclusively lined up behind Mr. Mamdani.",
+                    "copyright": "Victor J. Blue for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "‘Father Mother Sister Brother’ Takes Top Prize at Venice Film Festival",
+            "abstract": "The film, directed by Jim Jarmusch, details three stories of three families. “The Voice of Hind Rajab,” about a Palestinian girl in a car under fire by the Israeli military, won second place.",
+            "url": "https://www.nytimes.com/2025/09/06/arts/father-mother-sister-brother-winner-venice-film-festival.html",
+            "uri": "nyt://article/ee436a11-3f12-5cf1-af75-e23924f25f5f",
+            "byline": "By Nicolas Rapold",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:54:42-04:00",
+            "created_date": "2025-09-06T17:41:57-04:00",
+            "published_date": "2025-09-06T17:41:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Venice International Film Festival",
+                "Father Mother Sister Brother (Movie)",
+                "The Voice of Hind Rajab (Movie)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Jarmusch, Jim",
+                "Payne, Alexander",
+                "Bialik, Mayim",
+                "Blanchett, Cate",
+                "Driver, Adam",
+                "Johnson, Dwayne (1972- )",
+                "Schnabel, Julian",
+                "Sorrentino, Paolo",
+                "Ben Hania, Kaouther",
+                "Safdie, Benny",
+                "Rosi, Gianfranco",
+                "Servillo, Toni",
+                "Xin Zhilei",
+                "Nastia Korkia",
+                "Novak, Kim",
+                "van Sant, Gus"
+            ],
+            "geo_facet": [
+                "Venice (Italy)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06venice-winner-tcgm/06venice-winner-tcgm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The director Jim Jarmusch won the Golden Lion for Best Film for “Father Mother Sister Brother” at the 82nd Venice International Film Festival on Saturday.",
+                    "copyright": "Theo Wargo/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06venice-winner-tcgm/06venice-winner-tcgm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The director Jim Jarmusch won the Golden Lion for Best Film for “Father Mother Sister Brother” at the 82nd Venice International Film Festival on Saturday.",
+                    "copyright": "Theo Wargo/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06venice-winner-tcgm/06venice-winner-tcgm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The director Jim Jarmusch won the Golden Lion for Best Film for “Father Mother Sister Brother” at the 82nd Venice International Film Festival on Saturday.",
+                    "copyright": "Theo Wargo/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Man Is Identified 52 Years After He Vanished, Bringing ‘Rest’ to His Sisters",
+            "abstract": "Eric Singer left his Ohio home on his bicycle, never to be seen again. With the help of advances in DNA research, he was finally found.",
+            "url": "https://www.nytimes.com/2025/09/06/us/algonquin-park-ontario-body.html",
+            "uri": "nyt://article/d65c5005-a3ca-58b1-b233-6bbbd7e279ef",
+            "byline": "By Rylee Kirk",
+            "item_type": "Article",
+            "updated_date": "2025-09-06T17:44:57-04:00",
+            "created_date": "2025-09-06T17:44:57-04:00",
+            "published_date": "2025-09-06T17:44:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Missing Persons",
+                "Forensic Science",
+                "Genetics and Heredity",
+                "DNA (Deoxyribonucleic Acid)",
+                "Parks and Other Recreation Areas",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [
+                "DNA Doe Project (Nonprofit)"
+            ],
+            "per_facet": [
+                "Singer, Eric"
+            ],
+            "geo_facet": [
+                "Algonquin Provincial Park (Ontario)",
+                "Cleveland (Ohio)",
+                "Ontario (Canada)",
+                "New Mexico"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-missing/06xp-missing-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1520,
+                    "width": 1214,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Singer was 22 when he was last seen alive in Cleveland in 1973.",
+                    "copyright": "Ontario Provincial Police"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-missing/06xp-missing-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Singer was 22 when he was last seen alive in Cleveland in 1973.",
+                    "copyright": "Ontario Provincial Police"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2025/09/06/multimedia/06xp-missing/06xp-missing-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Eric Singer was 22 when he was last seen alive in Cleveland in 1973.",
+                    "copyright": "Ontario Provincial Police"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}
